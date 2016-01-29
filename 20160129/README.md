@@ -18,7 +18,7 @@
 
 # **TiDB 项目动态**
 
-共 [Merge 6个 ](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2016-01-23..2016-01-29)[PR](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2016-01-23..2016-01-29) ：
+共 [Merge 6个 PR](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2016-01-23..2016-01-29) ：
 
 <table>
   <tr>
