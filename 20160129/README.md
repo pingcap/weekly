@@ -57,7 +57,7 @@
 
 ## **（感谢）新增 Contributor**
 
-* [Shen yuwen](https://github.com/losas) （深圳）
+* [Shen Yuwen](https://github.com/losas) （深圳）
 * [Zhao Xingyu](https://github.com/zxylvlp) （天津大学）
 * [Akihiro Suda](https://github.com/AkihiroSuda) （日本电信）
 
