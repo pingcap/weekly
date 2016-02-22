@@ -66,6 +66,6 @@
 
 # **近期事件**
 
-* 2016/02/16  第二届 Gopher China (Beijing) 演讲（[刘奇](http://weibo.com/chuangyiyongpin)）
+* 2016/04/16  第二届 Gopher China (Beijing) 演讲（[刘奇](http://weibo.com/chuangyiyongpin)）
 * 2016/02/18 联通云计算交流
 * 2016/02/18 万达技术交流
