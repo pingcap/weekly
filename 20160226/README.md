@@ -8,6 +8,7 @@
 
 ## **新闻 & 文章**
 
+* PingCAP 赞助 [Gopher China 2016](http://www.gopherchina.org/#partner)
 * 完成查询计划相关代码重构，SQL Optimizer 全面升级，更强大、灵活
 * 开始并行查询设计
 
