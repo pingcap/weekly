@@ -12,6 +12,7 @@
 * 完成 TiDB 分布式 SQL [Demo](https://github.com/pingcap/tidb/tree/coocood/kvxapi)，并与外部团队开始协作开发
 * 与国电通进行分布式数据库技术交流
 * 与中金支付进行分布式缓存和分布式数据库 TiDB 技术交流
+* TiDB Weekly 新增[邮件订阅](http://eepurl.com/bT1FAv)
 
 # **TiDB 项目动态**
 
