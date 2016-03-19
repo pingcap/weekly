@@ -1,6 +1,6 @@
 **TiDB Weekly**
 
-   2016/3/18 第6期
+   2016/3/19 第6期
 
 欢迎浏览本期 TiDB Weekly。[TiDB](https://github.com/pingcap/tidb) 是一个分布式 SQL 数据库。灵感来自于 Google 的 [F1](http://research.google.com/pubs/pub41344.html) 和 [Spanner](http://research.google.com/archive/spanner.html)，TiDB 支持包括传统 RDBMS 和 NoSQL 的特性。这里是对 TiDB 项目及社区的每周消息汇总。如果要投稿，请关注 Twitter [@](https://twitter.com/ThisWeekInRust)[PingCAP](https://twitter.com/PingCAP) 或者发送邮件到 [weekly@pingcap.com](mailto:weekly@pingcap.com)。[欢迎参与 TiDB 项目](https://github.com/pingcap/tidb/blob/master/CONTRIBUTING.md)以及[《从零开始写分布式数据库》](https://github.com/ngaut/builddatabase)。
 
@@ -8,7 +8,7 @@
 
 ## **新闻 & 文章**
 
-* 3/13 日举办 TiDB 第二次线下 Meetup，讨论 TiDB 分布式 SQL 计算框架，京东、华为的数据库团队参加
+* 3/19 日举办 TiDB 第3次线下 Meetup，讨论 TiDB 分布式 SQL 计算框架、分布式事务、TiKV 实现 Raft 协议过程中的实践经验。来自华为、京东等公司的二十多位技术人员参加交流
 * 完成 TiDB 分布式 SQL [Demo](https://github.com/pingcap/tidb/tree/coocood/kvxapi)，并与外部团队开始协作开发
 * 与国电通进行分布式数据库技术交流
 * 与中金支付进行分布式缓存和分布式数据库 TiDB 技术交流
