@@ -8,7 +8,7 @@
 
 ## **新闻 & 文章**
 
-* 3/19 日举办 TiDB 第3次线下 Meetup，讨论 TiDB 分布式 SQL 计算框架、分布式事务、TiKV 实现 Raft 协议过程中的实践经验。来自华为、京东等公司的二十多位技术人员参加交流
+* 3/19 日举办 TiDB 第3次线下 Meetup，讨论 TiDB 分布式 SQL 计算框架、分布式事务、TiKV 实现 Raft 协议过程中的实践经验。来自华为、京东、百度、美团等公司的二十多位技术人员参加交流
 * 完成 TiDB 分布式 SQL [Demo](https://github.com/pingcap/tidb/tree/coocood/kvxapi)，并与外部团队开始协作开发
 * 与国电通进行分布式数据库技术交流
 * 与中金支付进行分布式缓存和分布式数据库 TiDB 技术交流
