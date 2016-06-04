@@ -28,7 +28,7 @@
 **新增Contributor：**
 
 * [Zhang Yang](https://github.com/v01dstar) 来自南加州大学
-
+* [wegel](https://github.com/wegel)
 # **近期事件**
 
 * 2016/06/24 [HKOSCon 2016](http://2016.opensource.hk/)，[刘奇](http://weibo.com/chuangyiyongpin?is_all=1)：《How to build a NewSQL database》
