@@ -3,7 +3,10 @@ layout: post
 title: How we build TiDB
 ---
 
-<span id="top">This is the speech Max Liu gave at **Percona Live Open Source Database Conference 2016**. See the [slides](https://www.percona.com/live/plam16/sessions/how-we-build-tidb).</span>
+<span id="top">This is the speech Max Liu gave at **Percona Live Open Source Database Conference 2016**. 
+
+The slides are [here](https://www.percona.com/live/plam16/sessions/how-we-build-tidb).</span>
+
 
 + [Speaker introduction](#1)
 + [Why another database?](#2)
