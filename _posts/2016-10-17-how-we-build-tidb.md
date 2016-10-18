@@ -325,13 +325,15 @@ Of course, TiDB supports secondary index. It&#39;s a global index. TiDB puts dat
 
 Indexes are just key-value pairs that the values point to the row key. After we create indexes for the user name, the key-value storage looks like this:
 
+![]({{ site.baseurl }}/assets/img/how-we-build-tidb-17.png)
+
 The key of the index consists of two parts: the name and the user id as the suffix. So here &quot;bob&quot; is the name, and 1 is the user id, and the value points to the row key.
 
 ### <span id="21">Predicate push-down</span>
 
 For some operations like count some columns in a table, TiDB pushes down these operations to the corresponding TiKV nodes, the TiKV nodes do the computing and then TiDB merges the final results. This diagram shows the process of a simple predicate push-down.
 
-![]({{ site.baseurl }}/assets/img/how-we-build-tidb-17.png)
+![]({{ site.baseurl }}/assets/img/how-we-build-tidb-18.png)
 
 ### <span id="22">Schema changes</span>
 
@@ -363,11 +365,11 @@ But TiDB is also different from Google F1 at the following aspects:
 
 One more thing before schema change. Let&#39;s take a look at the big picture of SQL in TiDB:
 
-![]({{ site.baseurl }}/assets/img/how-we-build-tidb-18.png)
+![]({{ site.baseurl }}/assets/img/how-we-build-tidb-19.png)
 
 Here is an overview of a TiDB instance during a schema change:
 
-![]({{ site.baseurl }}/assets/img/how-we-build-tidb-19.png)
+![]({{ site.baseurl }}/assets/img/how-we-build-tidb-20.png)
 
 #### Schema change: Adding index
 
@@ -415,7 +417,7 @@ then Step 4,  switch to the final state where all of the new queries can use the
 
 Here is one of the screenshots for adding an index.
 
-![]({{ site.baseurl }}/assets/img/how-we-build-tidb-20.png)
+![]({{ site.baseurl }}/assets/img/how-we-build-tidb-21.png)
 
 We can use any MySQL client to query the status of the online DDL job. Just simply run the &quot;show status&quot; statement and we can see that the current state is &quot;delete-only&quot; as I highlighted and that the action is &quot;add index&quot;. There is some other information such as who is doing the DDL job, the state of the current job and the current schema version.
 
@@ -423,7 +425,7 @@ We can use any MySQL client to query the status of the online DDL job. Just simp
 
 This screenshot shows that the current state is &quot;write reorganization&quot; as I highlighted.
 
-![]({{ site.baseurl }}/assets/img/how-we-build-tidb-21.png)
+![]({{ site.baseurl }}/assets/img/how-we-build-tidb-22.png)
 
 ## <span id="23">How to test?</span>
 
