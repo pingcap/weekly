@@ -1,14 +1,13 @@
 ---
 layout: post
 title: How we build TiDB
-excerpt_separator: <!--more-->
+excerpt: This is the speech Max Liu gave at Percona Live Open Source Database Conference 2016.
 ---
 
 <span id="top">This is the speech Max Liu gave at **Percona Live Open Source Database Conference 2016**. </span>
 
 The slides are [here](https://www.percona.com/live/plam16/sessions/how-we-build-tidb).
 
-<!—more—>
 
 + [Speaker introduction](#1)
 + [Why another database?](#2)
