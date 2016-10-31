@@ -27,7 +27,7 @@ Last week, we landed [24 PRs](https://github.com/pingcap/tidb/pulls?utf8=✓&q=i
 
 + [Add a command line flag to prevent cartesian product.](https://github.com/pingcap/tidb/pull/1894)
 
- ## Notable changes to `TiKV`
+## Notable changes to `TiKV`
 
 + [Compact region](https://github.com/pingcap/tikv/pull/1204) automatically after deleting lots of keys. 
 + Remove the [`rocksdb` DSN](https://github.com/pingcap/tikv/pull/1209) for the `tikv-server` command flag.
