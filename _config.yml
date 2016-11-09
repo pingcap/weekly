@@ -25,3 +25,6 @@ version:          Beta20160730
 github:
   repo:           https://github.com/pingcap/tidb
 
+blog:
+  url:            https://pingcap.github.io/blog
+
