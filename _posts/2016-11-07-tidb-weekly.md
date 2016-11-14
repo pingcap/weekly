@@ -15,7 +15,7 @@ Last week, we landed [42 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 + [The aggregation info to the explain statement.](https://github.com/pingcap/tidb/pull/1901)
 
-+ [Support the show processlist syntax](https://github.com/pingcap/tidb/pull/1907). TiDB support mydumper now.
++ [Support the show processlist syntax](https://github.com/pingcap/tidb/pull/1907). TiDB supports mydumper now.
 
 + [Support the show create database statement.](https://github.com/pingcap/tidb/pull/1911)
 
