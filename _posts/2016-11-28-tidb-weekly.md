@@ -45,8 +45,6 @@ Add the following new guides:
 
 * [TiKV tuning guide](https://github.com/pingcap/docs/pull/66)
 
-* [TiKV tuning guide](https://github.com/pingcap/docs/pull/66)
-
 # Weekly update in TiKV
 
 Last week, we landed [20 PRs](https://github.com/search?p=1&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2016-11-20..2016-11-26&ref=searchresults&type=Issues&utf8=%E2%9C%93) in the TiKV repositories.
