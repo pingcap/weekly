@@ -1,5 +1,6 @@
 # TiDB and TiKV weekly update
 This is a repository for TiDB and TiKV weekly update.
++ [December 12 ~ December 18](./_posts/2016-12-19-tidb-weekly.md)
 + [December 05 ~ December 11](./_posts/2016-12-12-tidb-weekly.md)
 + [November 28 ~ December 04](./_posts/2016-12-05-tidb-weekly.md)
 + [November 21 ~ November 27](./_posts/2016-11-28-tidb-weekly.md)
