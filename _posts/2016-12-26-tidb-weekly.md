@@ -1,3 +1,7 @@
+---
+layout: post
+title: Weekly Update
+---
 # New Release
 
 [TiDB RC1](https://github.com/pingcap/tidb/releases/tag/rc1) is released! 
