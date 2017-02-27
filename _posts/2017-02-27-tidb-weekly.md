@@ -4,69 +4,82 @@ title: Weekly Update
 ---
 ## Weekly update in TiDB
 
-Last two weeks, we landed [25 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-02-06..2017-02-12%20) in the TiDB repositories.
+Last week, we landed [39 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-02-19..2017-02-26%20) in the TiDB repositories.
 
 ## Added
 
-* Support basic privilege framework: [#2423](https://github.com/pingcap/tidb/pull/2423), [#2557](https://github.com/pingcap/tidb/pull/2557), [#2603](https://github.com/pingcap/tidb/pull/2603), [#2607](https://github.com/pingcap/tidb/pull/2607),
+* Add 
 
-* [Support `ALTER [COLUMN] col_name SET DEFAULT` statement.](https://github.com/pingcap/tidb/pull/2608)
+* [Support Revoke statement.](https://github.com/pingcap/tidb/pull/2661)
 
-* [Validate column default value when creating table.](https://github.com/pingcap/tidb/pull/2614)
+* Add rules in parser and empty implementation for unsupported builtin functions: [#2667](https://github.com/pingcap/tidb/pull/2667), [#2677](https://github.com/pingcap/tidb/pull/2677), [#2679](https://github.com/pingcap/tidb/pull/2667)
 
-* [Support `ALTER TABLE ... DROP DEFAULT` statement.](https://github.com/pingcap/tidb/pull/2616)
+* [Support wildcard chars in username or host in Grant statement.](https://github.com/pingcap/tidb/pull/2688)
 
-* [Support changing default value and comment in alter table statement.](https://github.com/pingcap/tidb/pull/2621)
+* [Add a context arggument for distsql/kv interface:](https://github.com/pingcap/tidb/pull/2699) We will use the context to cancel running jobs.
+
+* [Support `Create Table ... Like` statement.](https://github.com/pingcap/tidb/pull/2707)
+
+* [Support `ON UPDATE CURRENT_TIMESTAMP` with precision](https://github.com/pingcap/tidb/pull/2714)
+
+* [Support `Show Warnings` statement.](https://github.com/pingcap/tidb/pull/2724)
 
 ## Fixed
 
-* [Fix build on i386.](https://github.com/pingcap/tidb/pull/2591)
+* [Fix memory leak when IndexScanExecutor meet error.](https://github.com/pingcap/tidb/pull/2678)
 
-* [Fix output format of prometheus interval log.](https://github.com/pingcap/tidb/pull/2594)
+* [Add missing field length information for `show databases;`](https://github.com/pingcap/tidb/pull/2681)
 
-* Clean up log: [#2599](https://github.com/pingcap/tidb/pull/2599), [#2601](https://github.com/pingcap/tidb/pull/2601)
+* [Add missing field length information for Show statement.](https://github.com/pingcap/tidb/pull/2698)
 
-* [Fix a bug in HashJoin executor](https://github.com/pingcap/tidb/pull/2605): some errors are ignored.
+* [Fix compatibility problme about string truncate error.](https://github.com/pingcap/tidb/pull/2685)
 
-* [Fix a bug in arithmetic expression type inference.](https://github.com/pingcap/tidb/pull/2610)
+* [Ignore malformated data in MySQL packet.](https://github.com/pingcap/tidb/pull/2692)
 
-* [Fix a bug in builtin function timediff.](https://github.com/pingcap/tidb/pull/2611)
+* [Fix a bug about topn operator pushdown.](https://github.com/pingcap/tidb/pull/2693)
 
+* [Fix a bug about add column with default value and not null flag.](https://github.com/pingcap/tidb/pull/2703)
 
 ## Improved
 
-* [Speed up unit tests.](https://github.com/pingcap/tidb/pull/2590)
+* [Prune correlated columns in groupby item list.](https://github.com/pingcap/tidb/pull/2568) 
 
-* Make test cases more stable: [#2595](https://github.com/pingcap/tidb/pull/2595), [#2596](https://github.com/pingcap/tidb/pull/2596)
+* [Imporve the performance of point get query using primary key or unique key by 3%.](https://github.com/pingcap/tidb/pull/2631)
 
-* [Remove useless code in parser package.](https://github.com/pingcap/tidb/pull/2604)
-
-* [Change string default collation to utf8_bin.](https://github.com/pingcap/tidb/pull/2617) We do not support case insensitive comparation yet.
+* [Decorrelated for aggregation.](https://github.com/pingcap/tidb/pull/2682)
 
 # Weekly update in TiKV
 
-Last week, We landed [14 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-02-05..2017-02-11&type=Issues&ref=searchresults) in the TiKV repositories.
+Last week, We landed [25 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-02-19..2017-02-25+&type=Issues&ref=searchresults) in the TiKV repositories.
 
 ## Added
 
-* Use [`seek_for_prev`](https://github.com/pingcap/tikv/pull/1581) directly.
+* [Detect system CPU/memory](https://github.com/pingcap/tikv/pull/1605) to adjust config automatically. 
 
-* Refactor [`cut_row` and `cut_idx_key`](https://github.com/pingcap/tikv/pull/1590) for row value analysis in coprocessor.
+* Add [RocksDB statistics](https://github.com/pingcap/tikv/pull/1606).
 
-* Extract an [interface](https://github.com/pingcap/tikv/pull/1579) to support different snapshot format.
+* Balance store according to [region count](https://github.com/pingcap/pd/pull/506).
+
+* Add [`label`](https://github.com/pingcap/pd/pull/530), [`ping`](https://github.com/pingcap/pd/pull/534) , [`admin`](https://github.com/pingcap/pd/pull/536), [`scheduler`](https://github.com/pingcap/pd/pull/537), [`operator`](https://github.com/pingcap/pd/pull/539) commands for `pd-ctl`.
+
+* Add [shuffle region](https://github.com/pingcap/pd/pull/538) scheduler.
 
 ## Fixed
 
-* Fix panic when [stop scheduler](https://github.com/pingcap/tikv/pull/1580) worker.
+* [Verify PD address](https://github.com/pingcap/pd/pull/528) when start `pd-ctl`.
 
-* Fix [invalid link](https://github.com/pingcap/pd/pull/500) in PD readme.
+* [Reject read index](https://github.com/pingcap/tikv/pull/1634) when new leader hasn’t committed the empty entry.
+
+* [Accelerate campaign](https://github.com/pingcap/tikv/pull/1640) faster after split happens. 
+
+* [Use default value](https://github.com/pingcap/tikv/pull/1644) in column info.
 
 ## Improved
 
-* Evaluate [logic operations](https://github.com/pingcap/tikv/pull/1565) lazily.
+* Save one TS get for [single point get](https://github.com/pingcap/tikv/pull/1608) by unique or primary key. 
 
-* Use [prefix seek](https://github.com/pingcap/tikv/pull/1509) to speed up read for Write CF.
+* Prettfiy [command label](https://github.com/pingcap/pd/pull/520) name in metrics.  
 
-* Separate [`advance` to `advance_ready` and `advance_apply`](https://github.com/pingcap/tikv/pull/1573) for async-apply later.
+* Make Raft [apply atomically](https://github.com/pingcap/tikv/pull/1648).
 
-* Use [`shutdown`](https://github.com/pingcap/tikv/pull/1586)  to do cleanup when stop worker.
+* Add [region ID](https://github.com/pingcap/tikv/pull/1654) for scheduler slow log.
