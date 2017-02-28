@@ -8,8 +8,6 @@ Last week, we landed [39 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 ## Added
 
-* Add 
-
 * [Support Revoke statement.](https://github.com/pingcap/tidb/pull/2661)
 
 * Add rules in parser and empty implementation for unsupported builtin functions: [#2667](https://github.com/pingcap/tidb/pull/2667), [#2677](https://github.com/pingcap/tidb/pull/2677), [#2679](https://github.com/pingcap/tidb/pull/2667)
