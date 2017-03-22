@@ -8,7 +8,7 @@ Last week, we landed [33 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 ## Added
 
-* [Add system table `mysql.stats_meta`](https://github.com/pingcap/tidb/pull/2766): used for store statistic information.
+* [Add system table `mysql.stats_meta`](https://github.com/pingcap/tidb/pull/2766): used for storing statistic information.
 
 * [Add a Restful API to get region info from pd.](https://github.com/pingcap/tidb/pull/2774)
 
@@ -83,6 +83,6 @@ Last week, We landed [10 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 ## Improved
 
-* [Queue vote](https://github.com/pingcap/tikv/pull/1670) to avoid follower discards it if region hasn’t been split. 
+* [Queue vote](https://github.com/pingcap/tikv/pull/1670) to prevent followers from discarding it if region hasn’t been split. 
 
 * Improve [random picking](https://github.com/pingcap/pd/pull/565) region from cache.
