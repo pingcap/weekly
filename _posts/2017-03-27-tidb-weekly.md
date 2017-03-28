@@ -10,7 +10,7 @@ Last week, we landed [40 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 * [Support Sort Merge Join operator.](https://github.com/pingcap/tidb/pull/2850)
 
-* Add many builtin functions: [`degree`](https://github.com/pingcap/tidb/pull/2844), [`insert`](https://github.com/pingcap/tidb/pull/2855), [`instr`](https://github.com/pingcap/tidb/pull/2857), [`any_value`](https://github.com/pingcap/tidb/pull/2866), [`elt`](https://github.com/pingcap/tidb/pull/2870), [`uuid`](https://github.com/pingcap/tidb/pull/2875), [`ord`](https://github.com/pingcap/tidb/pull/2881), [`sin`](https://github.com/pingcap/tidb/pull/2885), [`inet_ntoa`](https://github.com/pingcap/tidb/pull/2887), [`maketime`](https://github.com/pingcap/tidb/pull/2889), [`sha2`](https://github.com/pingcap/tidb/pull/2914), [`quarter`](https://github.com/pingcap/tidb/pull/2919),
+* Add many builtin functions: [`degree`](https://github.com/pingcap/tidb/pull/2844), [`insert`](https://github.com/pingcap/tidb/pull/2855), [`instr`](https://github.com/pingcap/tidb/pull/2857), [`any_value`](https://github.com/pingcap/tidb/pull/2866), [`elt`](https://github.com/pingcap/tidb/pull/2870), [`uuid`](https://github.com/pingcap/tidb/pull/2875), [`ord`](https://github.com/pingcap/tidb/pull/2881), [`sin`](https://github.com/pingcap/tidb/pull/2885), [`inet_ntoa`](https://github.com/pingcap/tidb/pull/2887), [`maketime`](https://github.com/pingcap/tidb/pull/2889), [`sha2`](https://github.com/pingcap/tidb/pull/2914), [`quarter`](https://github.com/pingcap/tidb/pull/2919)
 
 * [Add a command line flag to start TiDB without authentication function.](https://github.com/pingcap/tidb/pull/2897)
 
@@ -33,7 +33,7 @@ Last week, we landed [40 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 * [Build statistics with multiple goroutines.](https://github.com/pingcap/tidb/pull/2713)
 
-* Refactor coprocessor architecture: [Add DAG physical plan protobuf](https://github.com/pingcap/tidb/pull/2896) make code cleaner.
+* Refactor coprocessor architecture: [Add DAG physical plan protobuf](https://github.com/pingcap/tidb/pull/2896).
 
 * [Refactor TiDB specific system variable](https://github.com/pingcap/tidb/pull/2915): Make code cleaner.
 
