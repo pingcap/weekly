@@ -68,11 +68,11 @@ Last week, We landed [18 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 ## Fixed
 
-* Fix fetching [stale TSO](https://github.com/pingcap/pd/pull/572) when leader switch back to the previous node.
+* Fix fetching [stale TSO](https://github.com/pingcap/pd/pull/572) when leader switches back to the previous node.
 
 * Make sure that [commit TS is always after the start TS](https://github.com/pingcap/tikv/pull/1690).
 
-* [Speed up](https://github.com/pingcap/tikv/pull/1696) transferring leader process.
+* [Speed up](https://github.com/pingcap/tikv/pull/1696) transfer leader process.
 
 ## Improved
 
