@@ -72,7 +72,7 @@ Last week, We landed [18 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 * Make sure that [commit TS is always after the start TS](https://github.com/pingcap/tikv/pull/1690).
 
-* [Speed up](https://github.com/pingcap/tikv/pull/1696) transfer leader process.
+* [Speed up](https://github.com/pingcap/tikv/pull/1696) the process of transfer leader.
 
 ## Improved
 
