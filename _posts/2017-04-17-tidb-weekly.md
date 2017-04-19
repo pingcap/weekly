@@ -54,7 +54,7 @@ Last two weeks, we landed [26 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E
 
 * [Xuanwo](https://github.com/Xuanwo)
 
-*[fudali113](https://github.com/fudali113)
+* [fudali113](https://github.com/fudali113)
 
 # Weekly update in TiKV
 
