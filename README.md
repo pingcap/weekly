@@ -1,5 +1,6 @@
 # TiDB and TiKV weekly update
 This is a repository for TiDB and TiKV weekly update.
++ [April 10 ~ April 16](./_posts/2017-04-17-tidb-weekly.md)
 + [March 27 ~ April 09](./_posts/2017-04-10-tidb-weekly.md)
 + [March 20 ~ March 26](./_posts/2017-03-27-tidb-weekly.md)
 + [March 13 ~ March 19](./_posts/2017-03-20-tidb-weekly.md)
