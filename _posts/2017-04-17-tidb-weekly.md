@@ -74,7 +74,7 @@ Last week, We landed [18 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 ## Fixed
 
-* Always [update PD client](https://github.com/pingcap/tikv/pull/1759) to avoid PD client can not reconnecting to PD server after network error.  
+* Always [update PD client](https://github.com/pingcap/tikv/pull/1759) to avoid the problem that PD client can not reconnect to PD server after network error.  
 
 * Fix the bug when [decode empty data](https://github.com/pingcap/pd/pull/617) to a `StringSlice`. 
 
