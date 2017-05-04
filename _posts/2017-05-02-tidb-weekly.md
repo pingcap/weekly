@@ -16,7 +16,7 @@ Last week, we landed [49 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 * [Add a plan for `Analyze`.](https://github.com/pingcap/tidb/pull/3130)
 
-* [Add a check list about the things contributor should think about before sending a PR.](https://github.com/pingcap/tidb/pull/3137)
+* [Add a check list about the things that contributors should think about before sending a PR.](https://github.com/pingcap/tidb/pull/3137)
 
 * [Support `ENGINE` option with partition option in table definition.](https://github.com/pingcap/tidb/pull/3140)
 
@@ -45,7 +45,7 @@ Last week, we landed [49 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 * Make `goword` happy in the following package: [ddl](https://github.com/pingcap/tidb/pull/3119), [util](https://github.com/pingcap/tidb/pull/3121), [tablecodec](https://github.com/pingcap/tidb/pull/3122), [expression](https://github.com/pingcap/tidb/pull/3123), [bootstrap](https://github.com/pingcap/tidb/pull/3182), [model](https://github.com/pingcap/tidb/pull/3183), [table](https://github.com/pingcap/tidb/pull/3184), [ast](https://github.com/pingcap/tidb/pull/3185), [perfschema](https://github.com/pingcap/tidb/pull/3186)
 
-* [Add a few empty memory table in `information_schema`:](https://github.com/pingcap/tidb/pull/3127) Make `DTS` happy.
+* [Add a few empty memory tables in `information_schema`:](https://github.com/pingcap/tidb/pull/3127) Make `DTS` happy.
 
 * [When where expresion can be converted to `false`, use dual table instead of a read table.](https://github.com/pingcap/tidb/pull/3144)
 
