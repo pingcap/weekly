@@ -14,7 +14,7 @@ Last week, we landed [33 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 * [Enable privilege checking by default.](https://github.com/pingcap/tidb/pull/2995) You could also disable privilege checking through `--privilege=false`.
 
-* [Support `Analyze Index` statement:](https://github.com/pingcap/tidb/pull/3156) after adding index, we could run this statement to analyze the newly added index.
+* [Support `Analyze Index` statement:](https://github.com/pingcap/tidb/pull/3156) after adding an index, we could run this statement to analyze the newly added index.
 
 * [Add `Trigger_priv` column in `mysql.user` system table.](https://github.com/pingcap/tidb/pull/3143)
 
@@ -22,7 +22,7 @@ Last week, we landed [33 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 ## Fixed
 
-* [Fix incompatible in found_rows().](https://github.com/pingcap/tidb/pull/3134)
+* [Fix incompatible issue in found_rows().](https://github.com/pingcap/tidb/pull/3134)
 
 * [Fix a few panic when infering type for some functions without argument.](https://github.com/pingcap/tidb/pull/3137)
 
