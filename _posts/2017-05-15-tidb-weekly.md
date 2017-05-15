@@ -10,7 +10,7 @@ Last week, we landed [28 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 ## Added
 
-* Add builtin function [`umcompress` and `uncompressdlength`](https://github.com/pingcap/tidb/pull/3136), [`convert_tz`](https://github.com/pingcap/tidb/pull/3222), [`period-diff`](https://github.com/pingcap/tidb/pull/3237)
+* Add builtin function [`uncompress` and `uncompressdlength`](https://github.com/pingcap/tidb/pull/3136), [`convert_tz`](https://github.com/pingcap/tidb/pull/3222), [`period-diff`](https://github.com/pingcap/tidb/pull/3237)
 
 * [Fill data into `information_schema.key_column_usage`.](https://github.com/pingcap/tidb/pull/2721)
 
@@ -72,4 +72,4 @@ Last week, We landed [17 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 * Add [the reason of cluster ID mismatch](https://github.com/pingcap/tikv/pull/1825) in error log.
 
-* Add [log](https://github.com/pingcap/tikv/pull/1823) for apply delegate register and deregister.
+* Add [log](https://github.com/pingcap/tikv/pull/1823) to apply delegate register and deregister.
