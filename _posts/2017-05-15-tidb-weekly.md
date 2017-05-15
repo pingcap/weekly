@@ -48,9 +48,9 @@ Last week, We landed [17 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 * Use [`clap`](https://github.com/pingcap/tikv/pull/1806) to parse command line options.
 
-*  Show store [down](https://github.com/pingcap/pd/pull/633) state in `pd-ctl`.
+* Show TiKV instance [downtime](https://github.com/pingcap/pd/pull/633) state in `pd-ctl`.
 
-* Show [operator history](https://github.com/pingcap/pd/pull/637) in `pd-ctl`.
+* Show [scheduling operation history](https://github.com/pingcap/pd/pull/637) in `pd-ctl`.
 
 * Show [cluster ID](https://github.com/pingcap/pd/pull/640) in `pd-ctl`.
 
@@ -70,6 +70,6 @@ Last week, We landed [17 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 ## Improved
 
-* Add cluster ID mismatched [reason](https://github.com/pingcap/tikv/pull/1825) in error log.
+* Add [the reason of cluster ID mismatch](https://github.com/pingcap/tikv/pull/1825) in error log.
 
 * Add [log](https://github.com/pingcap/tikv/pull/1823) for apply delegate register and deregister.
