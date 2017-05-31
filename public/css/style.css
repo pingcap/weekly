@@ -70,9 +70,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .sidebar {
     padding: 2rem 1rem;
-    /*border-right: 2px solid #000;*/
-    /*color: #333;*/
-    /*background-color: #113285;*/
     background: #142848;
 }
 
@@ -82,10 +79,11 @@ h1, h2, h3, h4, h5, h6 {
         top: 0;
         left: 0;
         bottom: 0;
-        width: 20rem;
+        width: 23rem;
         text-align: left;
     }
 }
+
 
 .sidebar-about {
     margin-bottom: 2.5rem;
@@ -99,13 +97,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar-about a {
-	/*color: #222;*/
 	text-decoration: none;
 }
 
 .sidebar-about .lead {
 	font-size: .8rem;
-	/*color: #333;*/
 	font-family: "Lato Light";
 }
 
@@ -115,7 +111,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .sidebar-nav a {
 	font-size: .8rem;
-	/*color: #3A59F0;*/
 }
 
 .sidebar .copyright {
@@ -136,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 48em) {
   .content {
     max-width: 42rem;
-    margin-left: 20rem;
+    margin-left: 23rem;
     margin-right: 2rem;
   }
 }
@@ -144,7 +139,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 64em) {
   .content {
   	max-width: 60rem;
-    margin-left: 22rem;
+    margin-left: 25rem;
     margin-right: 2rem;
   }
 }

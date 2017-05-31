@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            TiDB
+title:            TiDB Weekly
 tagline:          'TiDB Weekly'
 description:      'TiDB is a distributed SQL database. Inspired by the design of Google F1, TiDB supports the best features of both traditional RDBMS and NoSQL.'
 url:              http://weekly.pingcap.com
