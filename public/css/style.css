@@ -224,10 +224,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content .post p {
-	margin-bottom: 1.2rem;
+	margin-bottom: .8rem;
 	font-family: "Lato Light";
 	font-size: 1rem;
-	line-height: 1.6;
+	line-height: 1.2;
 	color: #142848;
 }
 
