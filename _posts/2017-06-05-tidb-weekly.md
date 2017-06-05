@@ -4,8 +4,6 @@ title: Weekly Update
 ---
 ## Weekly update in TiDB
 
-2017-06-05
-
 Last two weeks, we landed [53 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-05-22..2017-06-04%20) in the TiDB repositories.
 
 ## Added
@@ -48,6 +46,7 @@ Last two weeks, we landed [53 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E
 * [Add the `references_priv` column in `mysql.user`.](https://github.com/pingcap/tidb/pull/3343)
 
 * [Close DDL worker gracefully when shutting down the TiDB server.](https://github.com/pingcap/tidb/pull/3349)
+
 
 ## Weekly update in TiKV
 
