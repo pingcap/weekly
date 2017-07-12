@@ -8,8 +8,9 @@ permalink:        pretty
 # Setup
 title:            TiDB Weekly
 tagline:          'TiDB Weekly'
-description:      'TiDB is a distributed SQL database. Inspired by the design of Google F1, TiDB supports the best features of both traditional RDBMS and NoSQL.'
+description:      'Inspired by Google Spanner/F1, PingCAP develops TiDB, an open source distributed Hybrid Transactional/Analytical Processing (HTAP) database.'
 url:              http://weekly.pingcap.com
+siteurl:          https://www.pingcap.com
 baseurl:          ""
 excerpt_separator: "<!--more-->"
 
