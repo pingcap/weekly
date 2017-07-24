@@ -1,6 +1,8 @@
 # TiDB and TiKV weekly update
 This is a repository for TiDB and TiKV weekly update.
 
++ [July 17 ~ July 23](./_posts/2017-07-24-tidb-weekly.md)
++ [July 10 ~ July 16](./_posts/2017-07-17-tidb-weekly.md)
 + [July 03 ~ July 09](./_posts/2017-07-10-tidb-weekly.md)
 + [June 26 ~ July 03](./_posts/2017-07-04-tidb-weekly.md)
 + [June 19 ~ June 25](./_posts/2017-06-26-tidb-weekly.md)
