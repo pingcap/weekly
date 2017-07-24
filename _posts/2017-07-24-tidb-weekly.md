@@ -43,7 +43,7 @@ Last week, we landed [60 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
   - [`scalar_function.go`](https://github.com/pingcap/tidb/pull/3840)
 * [Fix a bug of using undefined user variable.](https://github.com/pingcap/tidb/pull/3776)
 
-## Weekly update in TiDB
+## Weekly update in TiKV
 
 Last week, We landed [19 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-07-16..2017-07-22&type=Issues) in the TiKV repositories.
 
