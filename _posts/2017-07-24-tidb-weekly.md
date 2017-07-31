@@ -3,7 +3,7 @@ layout: post
 title: Weekly Update
 ---
 ## Weekly update in TiDB
-2017-07-17
+2017-07-24
 
 Last week, we landed [60 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-07-17..2017-07-23%20) in the TiDB repositories.
 
