@@ -3,8 +3,11 @@ layout: post
 title: Weekly Update
 ---
 ## Weekly update in TiDB
+
 2017-08-07
+
 Last week, we landed [54 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-07-31..2017-08-06%20) in the TiDB repositories.
+
 ## Added
 * [Support natural join.](https://github.com/pingcap/tidb/pull/3861)
 * [Add a switch for enabling cost-based optimizor.](https://github.com/pingcap/tidb/pull/3877)
