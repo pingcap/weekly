@@ -4,6 +4,7 @@ _site
 .ruby-version
 .sass-cache
 .jekyll-metadata
+Gemfile.lock
 
 # Numerous always-ignore extensions
 *.diff
@@ -41,4 +42,3 @@ validation-report.json
 
 # Folders to ignore
 node_modules
-
