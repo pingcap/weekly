@@ -10,7 +10,7 @@ title: Weekly Update
 Last week, we landed [42 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-08-28..2017-09-03) in the TiDB repositories.
 
 ## Added
-* [Add json into builtin if function.](https://github.com/pingcap/tidb/pull/4203)
+* [Add JSON into builtin `if` function.](https://github.com/pingcap/tidb/pull/4203)
 
 ## Fixed
 * [Fix bugs when doing natural JOIN or JOIN with using clause.](https://github.com/pingcap/tidb/pull/4389)
