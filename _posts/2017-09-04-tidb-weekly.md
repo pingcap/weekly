@@ -13,7 +13,7 @@ Last week, we landed [42 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 * [Add json into builtin if function.](https://github.com/pingcap/tidb/pull/4203)
 
 ## Fixed
-* [Fix bugs when doing natural JION or JION with using clause.](https://github.com/pingcap/tidb/pull/4389)
+* [Fix bugs when doing natural JOIN or JOIN with using clause.](https://github.com/pingcap/tidb/pull/4389)
 * [Check whether date is zero and returns error when casting int as the time type.](https://github.com/pingcap/tidb/pull/4387)
 * [Support date time format when parse duration.](https://github.com/pingcap/tidb/pull/4380)
 * [Fix the issue that `SHOW CREATE TABLE COMMENT` is not escaped and the issue that `FieldType.CompactStr()` is escaped.](https://github.com/pingcap/tidb/pull/4372)
