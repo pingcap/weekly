@@ -4,7 +4,6 @@ title: Weekly Update
 ---
 
 ## Weekly update in TiDB
-
 2017-09-11
 
 Last week, we landed [49 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-09-04..2017-09-10%20) in the TiDB repositories.
@@ -84,5 +83,5 @@ Last week, We landed [32 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 * Use [`time.Since`](https://github.com/pingcap/pd/pull/736) instead of `time.Now().Sub`.
 * Check if the [log is initialized](https://github.com/pingcap/tikv/pull/2263) when starting up.
 
-## New contributors
-* https://github.com/wgliang
+## New Contributor (Thanks!)
+* [Wang Guoliang](https://github.com/wgliang)
