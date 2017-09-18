@@ -59,7 +59,7 @@ Last week, we landed [46 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 * Added the [Integration test framework](https://github.com/pingcap/tispark/pull/32)
 
 ## New contributors (Thanks!)
-* https://github.com/liancheng
+* [Cheng Lian](https://github.com/liancheng)
 
 
 # Weekly update in TiKV
@@ -81,7 +81,7 @@ Last week, We landed [34 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 * [Stop the threadpool](https://github.com/pingcap/tikv/pull/2275) before quitting the scheduler.
 * Fix the [marshal operator](https://github.com/pingcap/pd/pull/746).
 * Fix [the timeout operator](https://github.com/pingcap/pd/pull/749).
-* Fix [a but in `cast_str_as_int`](https://github.com/pingcap/tikv/pull/2296).
+* Fix [a bug in `cast_str_as_int`](https://github.com/pingcap/tikv/pull/2296).
 * [Wrap `InitLogger`](https://github.com/pingcap/pd/pull/753) in `sync.Once` for thread safety.
 * Fix [a compiling error](https://github.com/pingcap/tikv/pull/2304).
 
@@ -104,5 +104,5 @@ Last week, We landed [34 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 * Remove the [statistics that may overflow](https://github.com/pingcap/tikv/pull/2304).
 
 ## New contributors  (Thanks!)
-* https://github.com/blacktear23
-* https://github.com/qqsun8819
+* [Rain Li](https://github.com/blacktear23)
+* [OuYang Jin](https://github.com/qqsun8819)
