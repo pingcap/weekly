@@ -80,7 +80,7 @@ Last week, We landed [34 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 * Fix [cleaning up data](https://github.com/pingcap/tikv/pull/2273) between regions.
 * [Stop the threadpool](https://github.com/pingcap/tikv/pull/2275) before quitting the scheduler.
 * Fix the [marshal operator](https://github.com/pingcap/pd/pull/746).
-* Fix [the timeout operator](https://github.com/pingcap/pd/pull/749).
+* Fix the [operator timeout issue](https://github.com/pingcap/pd/pull/749).
 * Fix [a bug in `cast_str_as_int`](https://github.com/pingcap/tikv/pull/2296).
 * [Wrap `InitLogger`](https://github.com/pingcap/pd/pull/753) in `sync.Once` for thread safety.
 * Fix [a compiling error](https://github.com/pingcap/tikv/pull/2304).
