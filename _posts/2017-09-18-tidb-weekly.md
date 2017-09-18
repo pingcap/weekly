@@ -47,16 +47,16 @@ Last week, we landed [46 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 # Weekly update in TiSpark
 
 ## Added
-* Add the [JDBC Thrift Server / spark-sql support](https://github.com/pingcap/tispark/pull/36)
-* Add the [back-off retry policy](https://github.com/pingcap/tikv-client-lib-java/pull/104)
-* Add the [Meta table prefix support](https://github.com/pingcap/tispark/pull/43)
+* Add the [JDBC Thrift Server / spark-sql support.](https://github.com/pingcap/tispark/pull/36)
+* Add the [back-off retry policy.](https://github.com/pingcap/tikv-client-lib-java/pull/104)
+* Add the [Meta table prefix support.](https://github.com/pingcap/tispark/pull/43)
 
 ## Fixed
 * Fix the [Null decoding error.](https://github.com/pingcap/tikv-client-lib-java/pull/100)
-* Fixed some [Styling issues](https://github.com/pingcap/tispark/pull/38)
+* Fixed some [Styling issues.](https://github.com/pingcap/tispark/pull/38)
 
 ## Improved
-* Added the [Integration test framework](https://github.com/pingcap/tispark/pull/32)
+* Added the [Integration test framework.](https://github.com/pingcap/tispark/pull/32)
 
 ## New contributors (Thanks!)
 * [Cheng Lian](https://github.com/liancheng)
