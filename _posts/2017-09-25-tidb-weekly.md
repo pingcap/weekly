@@ -82,7 +82,7 @@ Last week, We landed [30 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 * Enhance [synchronizing the WAL log](https://github.com/pingcap/tikv/pull/2308).
 * Add [metrics](https://github.com/pingcap/tikv/pull/2312) for transactions.
 * Use [96MB](https://github.com/pingcap/tikv/pull/2313) as the default size for regions. 
-* Use [the counter instead of histogram](https://github.com/pingcap/tikv/pull/2319) when statistics scan details.
+* Use [counters instead of histogram](https://github.com/pingcap/tikv/pull/2319) when statistics scan details.
 * Fix [resource downloading and extracting](https://github.com/pingcap/tikv/pull/2321) when bench JSON.
 * Add [more statistics](https://github.com/pingcap/tikv/pull/2323) for RocksDB.
 * Update the [futures](https://github.com/pingcap/tikv/pull/2326).
