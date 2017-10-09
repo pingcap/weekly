@@ -7,7 +7,7 @@ title: Weekly Update
 
 2017-10-09
 
-Last 2 weeks, we landed [62 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-09-25..2017-10-08) in the TiDB repositories.
+Last two weeks, we landed [62 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-09-25..2017-10-08) in the TiDB repositories.
 
 ## Added
 * [Support the `SyncLog` Key-Value request option.](https://github.com/pingcap/tidb/pull/4689)
@@ -69,14 +69,14 @@ Last two weeks, We landed [39 PRs](https://github.com/search?utf8=%E2%9C%93&q=re
 * Pushdown the [`analyze` request](https://github.com/pingcap/tikv/pull/2340).
 * Support the [`must_sync` flag](https://github.com/pingcap/tikv/pull/2352) for raft ready.
 * Introduce [Disconnected and LowSpace states](https://github.com/pingcap/pd/pull/775) for store.
-* Add API to [compact a range](https://github.com/pingcap/tikv/pull/2357) for specified column family.
+* Add an API to [compact a range](https://github.com/pingcap/tikv/pull/2357) for the specified column family.
 
 ## Fixed
 
-* [Stop thread pool](https://github.com/pingcap/tikv/pull/2311) on shutdown.
+* [Stop the thread pool](https://github.com/pingcap/tikv/pull/2311) on shutdown.
 * Fix [block send problem](https://github.com/pingcap/pd/pull/768) in grpc.
 * Fix potential [unreachable drop](https://github.com/pingcap/tikv/pull/2343).
-* fix [tablecodec](https://github.com/pingcap/pd/pull/773).
+* Fix [tablecodec](https://github.com/pingcap/pd/pull/773).
 
 ## Improved
 
@@ -86,7 +86,7 @@ Last two weeks, We landed [39 PRs](https://github.com/search?utf8=%E2%9C%93&q=re
 * Debug: [implement region information](https://github.com/pingcap/tikv/pull/2332).
 * Add [slow log](https://github.com/pingcap/tikv/pull/2333) for applying.
 * Update [gRPC to 1.6.1](https://github.com/pingcap/tikv/pull/2336).
-* Check wether peers need to [split after initialization](https://github.com/pingcap/tikv/pull/2339).
+* Check whether peers need to [split after initialization](https://github.com/pingcap/tikv/pull/2339).
 * [Refactor Key-Value](https://github.com/pingcap/pd/pull/771) for PD.
 * Config: change all the names to kebab-case](https://github.com/pingcap/pd/pull/772).
 * [Flush the leader message](https://github.com/pingcap/tikv/pull/2345) as soon as possible.
