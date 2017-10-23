@@ -26,7 +26,7 @@ In the last two weeks, we landed [83 PRs](https://github.com/pingcap/tidb/pulls?
 * [Fix a `PhysicalReader` range bug when data is `MaxInt64`.](https://github.com/pingcap/tidb/pull/4835)
 * [Add `unsigned` and `zerofill` flags to field type year.](https://github.com/pingcap/tidb/issues/4830)
 * [Fix a `select distinct` bug.](https://github.com/pingcap/tidb/pull/4828)
-* [Fix a bug when `auto_increment` meets `unsigned.](https://github.com/pingcap/tidb/pull/4824)
+* [Fix a bug when `auto_increment` meets `unsigned`.](https://github.com/pingcap/tidb/pull/4824)
 * [Change the DNV of default null column to `0`.](https://github.com/pingcap/tidb/pull/4825)
 * [Correct the signature building of Values.](https://github.com/pingcap/tidb/pull/4814)
 * [Add schema state check when executing the `show create table` or `analyze statistic` statement.](https://github.com/pingcap/tidb/pull/4801)
@@ -71,7 +71,7 @@ In the last two weeks, we landed [83 PRs](https://github.com/pingcap/tidb/pulls?
 
 ## Added
 * Add [support for explain](https://github.com/pingcap/tispark/pull/52)
-​
+
 ## Fixed
 * Fix [tispark-sql table alias problem](https://github.com/pingcap/tispark/pull/54)
 
