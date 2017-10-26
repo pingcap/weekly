@@ -1,7 +1,6 @@
 ---
 date: 2016-12-12T00:00:00Z
 title: Weekly Update
-url: /2016/12/12/tidb-weekly/
 ---
 
 # Weekly update in TiDB

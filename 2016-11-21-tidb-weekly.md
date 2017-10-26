@@ -1,7 +1,6 @@
 ---
 date: 2016-11-21T00:00:00Z
 title: Weekly Update
-url: /2016/11/21/tidb-weekly/
 ---
 
 # Weekly update in TiDB

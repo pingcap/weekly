@@ -1,7 +1,6 @@
 ---
 date: 2016-12-26T00:00:00Z
 title: Weekly Update
-url: /2016/12/26/tidb-weekly/
 ---
 
 # New Release

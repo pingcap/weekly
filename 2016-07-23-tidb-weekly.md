@@ -1,7 +1,6 @@
 ---
 date: 2016-07-23T00:00:00Z
 title: Weekly Update
-url: /2016/07/23/tidb-weekly/
 ---
 
 Last week, we landed [22 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-07-17..2016-07-22%20) in the TiDB repositories and [15 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2016-07-16..2016-07-22+&type=Issues&ref=searchresults) in the TiKV repositories.
@@ -17,14 +16,14 @@ Last week, we landed [22 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 ## Notable changes to `TiKV`
 
 + Add asynchronous scheduler support for higher throughput and better performance, see [Benchmark](#Benchmark).
-+ Use PipeBuf to speed up socket read/write. 
-+ Add pushing down `max/min` support for the coprocessor. 
++ Use PipeBuf to speed up socket read/write.
++ Add pushing down `max/min` support for the coprocessor.
 + Re-use RocksDB write ahead log (WAL) to guarantee consistency when writing data in different column families.
 + Support using `make install` on the CentOS platform to install TiKV.
 
 ## Notable changes to `Placement Driver`
 
-+ Refactor the balance framework to make a cluster more balanced and stable. 
++ Refactor the balance framework to make a cluster more balanced and stable.
 + Support web UI in Docker.
 
 ## Benchmark

@@ -1,7 +1,6 @@
 ---
 date: 2017-05-02T00:00:00Z
 title: Weekly Update
-url: /2017/05/02/tidb-weekly/
 ---
 
 ## Weekly update in TiDB
