@@ -88,7 +88,7 @@ Last two weeks, We landed [39 PRs](https://github.com/search?utf8=%E2%9C%93&q=re
 * Update [gRPC to 1.6.1](https://github.com/pingcap/tikv/pull/2336).
 * Check whether peers need to [split after initialization](https://github.com/pingcap/tikv/pull/2339).
 * [Refactor Key-Value](https://github.com/pingcap/pd/pull/771) for PD.
-* Config: change all the names to kebab-case](https://github.com/pingcap/pd/pull/772).
+* [Config: change all the names to kebab-case](https://github.com/pingcap/pd/pull/772).
 * [Flush the leader message](https://github.com/pingcap/tikv/pull/2345) as soon as possible.
 * Return [error instead of panic](https://github.com/pingcap/tikv/pull/2347) if an expression is illegal.
 * Update [etcd to v3.2.6](https://github.com/pingcap/pd/pull/774) for PD.
