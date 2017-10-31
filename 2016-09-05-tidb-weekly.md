@@ -1,7 +1,11 @@
 ---
-date: 2016-09-05T00:00:00Z
-title: Weekly Update
+title: Weekly update (August 29 ~ September 04, 2016)
+date: 2016-09-05
+summary: Last week, we landed 29 PRs in the TiDB repositories and 24 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
+
+# Weekly update (August 29 ~ September 04, 2016)
 
 Last week, we landed [29 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-08-29..2016-09-04%20) in the TiDB repositories and [24 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2016-08-29..2016-09-04&type=Issues&ref=searchresults) in the TiKV repositories.
 
