@@ -1,5 +1,5 @@
 ---
-title: Weekly update (November 7 ~ November 13, 2016)
+title: Weekly update (November 07 ~ November 13, 2016)
 date: 2016-11-14
 summary: Last week, we landed 25 PRs in the TiDB repositories, 5 PRs in the TiDB docs repositories，and 23 PRs in the TiKV repositories.
 tags: ['TiDB', 'TiKV']
