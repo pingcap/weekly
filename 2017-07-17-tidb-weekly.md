@@ -1,10 +1,11 @@
 ---
-date: 2017-07-17T00:00:00Z
-title: Weekly Update
+title: Weekly update (July 10 ~ July 16, 2017)
+date: 2017-07-17
+summary: Last week, we landed 51 PRs in the TiDB repositories and 23 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
 
-## Weekly update in TiDB
-2017-07-17
+# Weekly update in TiDB
 
 Last week, we landed [51 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-07-10..2017-07-16%20) in the TiDB repositories.
 
@@ -42,7 +43,7 @@ Last week, we landed [51 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 * [Close the connection after sending `ERR_Packet`.](https://github.com/pingcap/tidb/pull/3678)
 * [Improve the unit test coverage for parser packages.](https://github.com/pingcap/tidb/pull/3718)
 
-## Weekly update in TiKV
+# Weekly update in TiKV
 
 Last week, We landed [23 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-07-09..2017-07-15&type=Issues) in the TiKV repositories.
 
