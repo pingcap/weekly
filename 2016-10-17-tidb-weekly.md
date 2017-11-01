@@ -1,11 +1,11 @@
 ---
-title: Weekly update (October 1 ~ October 16, 2016)
+title: Weekly update (October 01 ~ October 16, 2016)
 date: 2016-10-17
 summary: Last week, we landed 27 PRs in the TiDB repositories and 32 PRs in the TiKV repositories.
 tags: ['TiDB', 'TiKV', 'Placement Driver']
 ---
 
-# Weekly update (October 1 ~ October 16, 2016)
+# Weekly update (October 01 ~ October 16, 2016)
 
 Last week, we landed [27 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-10-01..2016-10-16) in the TiDB repositories and [32 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2016-10-02..2016-10-16&type=Issues&ref=searchresults) in the TiKV repositories.
 
