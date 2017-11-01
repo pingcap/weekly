@@ -1,13 +1,13 @@
 ---
-date: 2017-10-23T00:00:00Z
-title: Weekly Update
+title: Weekly update (October 9 ~ October 22, 2017)
+date: 2017-10-23
+summary: Last two weeks, we landed 83 PRs in the TiDB repositories and 46 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV', 'TiSpark']
 ---
 
 # Weekly update in TiDB
 
-2017-10-23
-
-In the last two weeks, we landed [83 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is:pr%20is:merged%20merged:2017-10-09..2017-10-22) in the TiDB repositories.
+Last two weeks, we landed [83 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is:pr%20is:merged%20merged:2017-10-09..2017-10-22) in the TiDB repositories.
 
 ## Added
 * [Support writing slow query log into separate files.](https://github.com/pingcap/tidb/pull/4804)
