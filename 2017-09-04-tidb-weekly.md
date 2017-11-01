@@ -1,5 +1,5 @@
 ---
-title: Weekly update (August 28 ~ September 3, 2017)
+title: Weekly update (August 28 ~ September 03, 2017)
 date: 2017-09-04
 summary: Last week, we landed 42 PRs in the TiDB repositories and 32 PRs in the TiKV repositories.
 tags: ['TiDB', 'TiKV']
