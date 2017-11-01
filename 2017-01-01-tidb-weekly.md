@@ -1,5 +1,5 @@
 ---
-title: Weekly update (December 26 ~ January 1, 2017)
+title: Weekly update (December 26 ~ January 01, 2017)
 date: 2017-01-01
 summary: Last week, we landed 28 PRs in the TiDB repositories and 19 PRs in the TiKV repositories.
 tags: ['TiDB', 'TiKV']
