@@ -1,9 +1,11 @@
 ---
-date: 2017-09-25T00:00:00Z
-title: Weekly Update
+title: Weekly update (September 18 ~ September 24, 2017)
+date: 2017-09-25
+summary: Last week, we landed 63 PRs in the TiDB repositories and 30 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV', 'TiSpark']
 ---
 
-## Weekly update in TiDB
+# Weekly update in TiDB
 
 2017-09-25
 
@@ -48,13 +50,13 @@ Last week, we landed [63 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
     - [builtin_math.go](https://github.com/pingcap/tidb/pull/4568)
     - [builtin_op.go](https://github.com/pingcap/tidb/pull/4547)
 
-## Weekly update in TiSpark
+# Weekly update in TiSpark
 
 ## Fixed
 * Fix the [Region client](https://github.com/pingcap/tikv-client-lib-java/pull/105) error in handling for store no match and leader switch 
 * Fix an issue in [PD Client](https://github.com/pingcap/tikv-client-lib-java/pull/107) leader switch.
 
-## Weekly update in TiKV
+# Weekly update in TiKV
 
 Last week, We landed [30 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-09-18..2017-09-24&type=Issues) in the TiKV repositories.
 
