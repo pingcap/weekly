@@ -1,11 +1,11 @@
 ---
-date: 2017-08-07T00:00:00Z
-title: Weekly Update
+title: Weekly update (July 31 ~ August 6, 2017)
+date: 2017-08-07
+summary: Last week, we landed 54 PRs in the TiDB repositories and 21 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
 
-## Weekly update in TiDB
-
-2017-08-07
+# Weekly update in TiDB
 
 Last week, we landed [54 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-07-31..2017-08-06%20) in the TiDB repositories.
 
@@ -31,7 +31,7 @@ Last week, we landed [54 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 * [Check schema changing more precisely.](https://github.com/pingcap/tidb/pull/3999)
 * [Adjust the cost of index join.](https://github.com/pingcap/tidb/pull/4014)
 
-## Weekly update in TiKV
+# Weekly update in TiKV
 
 Last week, We landed [21 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-07-30..2017-08-05&type=Issues) in the TiKV repositories.
 
