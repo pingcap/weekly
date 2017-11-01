@@ -1,11 +1,11 @@
 ---
-date: 2017-08-28T00:00:00Z
-title: Weekly Update
+title: Weekly update (August 21 ~ August 27, 2017)
+date: 2017-08-28
+summary: Last week, we landed 55 PRs in the TiDB repositories and 21 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
 
-## Weekly update in TiDB
-
-2017-08-28
+# Weekly update in TiDB
 
 Last week, we landed [55 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-08-21..2017-08-27%20) in the TiDB repositories.
 
@@ -58,7 +58,7 @@ Last week, we landed [55 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 * [xiaojian Cai](https://github.com/mccxj)
 * [bailaohe](https://github.com/bailaohe)
 
-## Weekly update in TiKV
+# Weekly update in TiKV
 
 Last week, We landed [21 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-08-20..2017-08-26&type=Issues) in the TiKV repositories.
 
