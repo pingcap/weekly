@@ -1,11 +1,11 @@
 ---
-date: 2017-05-15T00:00:00Z
-title: Weekly Update
+title: Weekly update (May 8 ~ May 14, 2016)
+date: 2017-05-15
+summary: Last week, we landed 28 PRs in the TiDB repositories and 17 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
 
-## Weekly update in TiDB
-
-# 2017-05-08
+# Weekly update in TiDB
 
 Last week, we landed [28 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-05-08..2017-05-14%20) in the TiDB repositories.
 
@@ -40,8 +40,6 @@ Last week, we landed [28 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 * Refactor expression evaluation framework: [Add self attribute in builtin function.](https://github.com/pingcap/tidb/pull/3218)[Return panic when calling wrong function on baseXBuiltinFunc.](https://github.com/pingcap/tidb/pull/3247)
 
 # Weekly update in TiKV
-
-# 2017-05-15
 
 Last week, We landed [17 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-05-07..2017-05-13&type=Issues) in the TiKV repositories.
 
