@@ -1,13 +1,13 @@
 ---
 title: Weekly update (November 28 ~ December 04, 2016)
 date: 2016-12-05
-summary: Last week, we landed 48 PRs in the TiDB repositories, 6 PRs in the TiDB docs repositories.
+summary: Last week, we landed 48 PRs in the TiDB repositories and 6 PRs in the TiDB docs repositories.
 tags: ['TiDB', 'TiKV']
 ---
 
 # Weekly update (November 28 ~ December 04, 2016)
 
-Last week, we landed [48 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-11-28..2016-12-04) in the TiDB repositories, [6 PRs](https://github.com/pingcap/docs/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-11-28..2016-12-04%20) in the TiDB docs repositories.
+Last week, we landed [48 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-11-28..2016-12-04) in the TiDB repositories and [6 PRs](https://github.com/pingcap/docs/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-11-28..2016-12-04%20) in the TiDB docs repositories.
 
 ## Added
 
