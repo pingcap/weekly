@@ -1,9 +1,12 @@
 ---
-date: 2016-12-19T00:00:00Z
-title: Weekly Update
+title: Weekly update (December 12 ~ December 18, 2016)
+date: 2016-12-19
+summary: Last week, we landed 32 PRs in the TiDB repositories.
+tags: ['TiDB']
 ---
 
-# Weekly update in TiDB
+# Weekly update (December 12 ~ December 18, 2016)
+
 Last week, we landed [32 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-12-12..2016-12-18) in the TiDB repositories.
 
 ## Added
