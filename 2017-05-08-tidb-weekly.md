@@ -1,11 +1,11 @@
 ---
-date: 2017-05-08T00:00:00Z
-title: Weekly Update
+title: Weekly update (May 1 ~ May 7, 2016)
+date: 2017-05-08
+summary: Last week, we landed 33 PRs in the TiDB repositories and 13 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
 
-## Weekly update in TiDB
-
-# 2017-05-08
+# Weekly update in TiDB
 
 Last week, we landed [33 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-05-01..2017-05-07%20) in the TiDB repositories.
 
@@ -54,10 +54,7 @@ Last week, we landed [33 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 * Refactor expression evaluation framework: [Rewrite compare operator.](https://github.com/pingcap/tidb/pull/3155) [Implement the new Eval interface for ColumnExpr and ConstExpr.](https://github.com/pingcap/tidb/pull/3128) [Decide the return type of ColumnExpr and ConstExpr during planning.](https://github.com/pingcap/tidb/pull/3201)
 
-
 # Weekly update in TiKV
-
-# 2017-05-08
 
 Last week, We landed [13 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-04-30..2017-05-06&type=Issues) in the TiKV repositories.
 
