@@ -1,13 +1,15 @@
 ---
-date: 2016-12-26T00:00:00Z
-title: Weekly Update
+title: Weekly update (December 19 ~ December 25, 2016)
+date: 2016-12-26
+summary: TiDB RC1 is released! Last week, we landed 34 PRs in the TiDB repositories and 14 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
 
 # New Release
 
 [TiDB RC1](https://github.com/pingcap/tidb/releases/tag/rc1) is released! 
 
-## Weekly update in TiDB
+# Weekly update in TiDB
 
 Last week, we landed [34 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-12-19..2016-12-25%20) in the TiDB repositories.
 
