@@ -1,9 +1,11 @@
 ---
-date: 2017-04-10T00:00:00Z
-title: Weekly Update
+title: Weekly update (March 27 ~ April 09, 2016)
+date: 2017-04-10
+summary: Last two weeks, we landed 74 PRs in the TiDB repositories and 46 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
 
-## Weekly update in TiDB
+# Weekly update in TiDB
 
 Last two weeks, we landed [74 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-03-27..2017-04-09%20) in the TiDB repositories.
 
@@ -76,8 +78,6 @@ Last two weeks, we landed [74 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E
 
 
 # Weekly update in TiKV
-
-# 2017-04-10
 
 Last two weeks, We landed [46 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-03-26..2017-04-08&type=Issues) in the TiKV repositories.
 
