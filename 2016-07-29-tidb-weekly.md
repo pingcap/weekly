@@ -2,7 +2,7 @@
 title: Weekly update (July 23 ~ July 29, 2016)
 date: 2016-07-29
 summary: Last week, we landed 27 PRs in the TiDB repositories and 34 PRs in the TiKV repositories.
-tags: ['TiDB', 'TiKV']
+tags: ['TiDB', 'TiKV', 'Placement Driver']
 ---
 
 # Weekly update (July 23 ~ July 29, 2016)
