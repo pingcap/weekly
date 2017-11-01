@@ -1,9 +1,11 @@
 ---
-date: 2017-01-01T00:00:00Z
-title: Weekly Update
+title: Weekly update (December 26 ~ January 1, 2016)
+date: 2017-01-01
+summary: Last week, we landed 28 PRs in the TiDB repositories and 19 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
 
-## Weekly update in TiDB
+# Weekly update in TiDB
 
 Last week, we landed [28 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2016-12-26..2017-01-01%20) in the TiDB repositories.
 
