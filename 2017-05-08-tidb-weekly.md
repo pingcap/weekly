@@ -1,5 +1,5 @@
 ---
-title: Weekly update (May 1 ~ May 7, 2016)
+title: Weekly update (May 1 ~ May 7, 2017)
 date: 2017-05-08
 summary: Last week, we landed 33 PRs in the TiDB repositories and 13 PRs in the TiKV repositories.
 tags: ['TiDB', 'TiKV']
