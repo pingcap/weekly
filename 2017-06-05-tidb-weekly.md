@@ -1,9 +1,11 @@
 ---
-date: 2017-06-05T00:00:00Z
-title: Weekly Update
+title: Weekly update (May 22 ~ June 05, 2017)
+date: 2017-06-05
+summary: Last two weeks, we landed 53 PRs in the TiDB repositories and 33 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV']
 ---
 
-## Weekly update in TiDB
+# Weekly update in TiDB
 
 Last two weeks, we landed [53 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Amerged%20merged%3A2017-05-22..2017-06-04%20) in the TiDB repositories.
 
@@ -49,7 +51,7 @@ Last two weeks, we landed [53 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E
 * [Close DDL worker gracefully when shutting down the TiDB server.](https://github.com/pingcap/tidb/pull/3349)
 
 
-## Weekly update in TiKV
+# Weekly update in TiKV
 
 Last two weeks, We landed [33 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-05-21..2017-06-03&type=Issues) in the TiKV repositories.
 
