@@ -40,7 +40,7 @@ Last week, we landed [51 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 * [wudi](https://github.com/foxmailed)
 
 
-# Weekly update in TiDB
+# Weekly update in TiKV
 
 Last week, We landed [16 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-10-30..2017-11-05&type=Issues) in the TiKV repositories.
 
