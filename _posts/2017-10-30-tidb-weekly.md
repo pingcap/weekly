@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Weekly Update
+title: Weekly update (October 23 ~ October 29, 2017)
+date: 2017-10-30
+summary: Last two weeks, we landed 83 PRs in the TiDB repositories and 46 PRs in the TiKV repositories.
+tags: ['TiDB', 'TiKV', 'TiSpark']
 ---
 
-## Weekly update in TiDB
-
-2017-10-30
+# Weekly update in TiDB
 
 Last week, we landed [52 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is:pr%20is:merged%20merged:2017-10-23..2017-10-29) in the TiDB repositories.
 
