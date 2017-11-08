@@ -39,4 +39,13 @@
     ga('create', 'UA-99991864-2', 'auto');
     ga('send', 'pageview');
   </script>
+  
+  <!-- Redirect -->
+  <script>
+    // redirect to new website url
+    var _url = "{{ page.url | slugify }}"
+    // test url
+    // window.location.replace("https://pingcap.netlify.com/weekly/"+_url)
+    window.location.replace("https://pingcap.com/weekly/"+_url)
+  </script>
 </head>
