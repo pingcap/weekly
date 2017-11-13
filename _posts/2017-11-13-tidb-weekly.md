@@ -77,7 +77,7 @@ Last week, We landed [18 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 * [Verify](https://github.com/pingcap/tikv/pull/2450) before destroying a peer.
 * Fix [the `LIKE` behavior](https://github.com/pingcap/tikv/pull/2455) for coprocessor.
 * Fix [the `do_div_mod`](https://github.com/pingcap/tikv/pull/2456) bug.
-* Fix a [nil pointer dereference](https://github.com/pingcap/pd/pull/838) bub in `pd-client`.
+* Fix a [nil pointer dereference](https://github.com/pingcap/pd/pull/838) bug in `pd-client`.
 * [Clear hot region related gauges](https://github.com/pingcap/pd/pull/843) if a region is not hot any more.
 
 ## Improved
