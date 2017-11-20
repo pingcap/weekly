@@ -87,7 +87,7 @@ Last week, we landed [23 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
    - [Move server methods to `server.go`](https://github.com/pingcap/pd/pull/861)
 * [Use `git describe` to assign `PDReleaseVersion`.](https://github.com/pingcap/pd/pull/847)
 * [Prealloc pre-makes space.](https://github.com/pingcap/pd/pull/849)
-* [Use `CGO\_ENABLED` instead of `ENABLE\_CGO`.](https://github.com/pingcap/pd/pull/855)
+* [Use `CGO_ENABLED` instead of `ENABLE_CGO`.](https://github.com/pingcap/pd/pull/855)
 * [Add the log signal before exit.](https://github.com/pingcap/pd/pull/860)
 * [Limit the duration metric buckets of gRPC messages.](https://github.com/pingcap/tikv/pull/2488)
 * [Shorten `write guard lifetime` when sending the snapshot.](https://github.com/pingcap/tikv/pull/2490)
