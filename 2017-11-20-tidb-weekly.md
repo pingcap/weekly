@@ -59,7 +59,7 @@ Last week, we landed [3 PRs](https://github.com/pingcap/tispark/pulls?utf8=%E2%9
 
 # Weekly update in TiKV
 
-Last week, We landed [23 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-11-13..2017-11-20) in the TiKV repositories.
+Last week, we landed [23 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3Apingcap%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2017-11-13..2017-11-20) in the TiKV repositories.
 
 ## Added
 
