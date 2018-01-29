@@ -41,13 +41,13 @@ Last week, we landed [4 PRs](https://github.com/pingcap/tispark/pulls?utf8=%E2%9
 
 ## Improved
 
-* [Improved index double read performance by around 30%](https://github.com/pingcap/tispark/pull/172)
-* [Verified and added document for Hive integration](https://github.com/pingcap/tispark/pull/225)
+* [Improve index double read performance by around 30%](https://github.com/pingcap/tispark/pull/172)
+* [Verify and add document for Hive integration](https://github.com/pingcap/tispark/pull/225)
 
 ## Fixed
 
-* [Fixed test for between expression](https://github.com/pingcap/tispark/pull/222)
-* [Added placeholder for unsupported type preventing schema reading crash](https://github.com/pingcap/tispark/pull/218)
+* [Fix test for between expression](https://github.com/pingcap/tispark/pull/222)
+* [Add placeholder for unsupported type preventing schema reading crash](https://github.com/pingcap/tispark/pull/218)
 
 # Weekly update in TiKV and PD
 
