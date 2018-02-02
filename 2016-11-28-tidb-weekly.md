@@ -46,7 +46,7 @@ Last week, we landed [44 PRs](https://github.com/pingcap/tidb/pulls?utf8=✓&q=i
 Add the following new guides:
 
 * [TiDB Cluster Troubleshooting Guide](https://github.com/pingcap/docs/blob/master/trouble-shooting.md)
-* [TiKV Tuning Guide](https://github.com/pingcap/docs/blob/master/op-guide/tune-TiKV.md)
+* [TiKV Tuning Guide](https://github.com/pingcap/docs/blob/master/op-guide/tune-tikv.md)
 
 # Weekly update in TiKV
 
@@ -80,7 +80,7 @@ Last week, we landed [20 PRs](https://github.com/search?p=1&q=repo%3Apingcap%2Ft
 
 + [Abstract a Selector](https://github.com/pingcap/pd/pull/389) to schedule region peer.
 
-+ Split the [`Raft Ready` handle](https://github.com/pingcap/pd/pull/1322) to two handles: `Append` and `Apply`. 
++ Split the `Raft Ready` handle to two handles: `Append` and `Apply`. 
 
 + Use [larger Heartbeat and Election timeout](https://github.com/pingcap/pd/pull/391) to reduce the network pressure. 
 

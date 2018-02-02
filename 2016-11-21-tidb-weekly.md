@@ -65,4 +65,4 @@ Last week, we landed [19 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 + [Abstract a Selector](https://github.com/pingcap/pd/pull/388) to handle different strategies to select stores. 
 
-+ Enlarge the [latches size]([https://github.com/pingcap/tikv/pull/1321](https://github.com/pingcap/tikv/pull/1321)) of the scheduler to reduce lock conflicts.
++ Enlarge the [latches size](https://github.com/pingcap/tikv/pull/1321) of the scheduler to reduce lock conflicts.

@@ -29,7 +29,7 @@ Last week, we landed [78 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 * Refactor the following expressions/builtin-functions evaluation framework:
   - [Plus](https://github.com/pingcap/tidb/pull/3858)
   - [Multiply](https://github.com/pingcap/tidb/pull/4118)
-  - [Minus](https://github.com/pingcap/tidb/pullt/4077)
+  - [Minus](https://github.com/pingcap/tidb/pull/4077)
   - [lpad/rpad](https://github.com/pingcap/tidb/pull/4036)
   - [bin](https://github.com/pingcap/tidb/pull/4039)
   - [from_base64](https://github.com/pingcap/tidb/pull/4040)
