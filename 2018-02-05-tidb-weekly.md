@@ -89,4 +89,4 @@ Last week, we landed [22 PRs](https://github.com/search?q=repo%3Apingcap%2Ftikv+
 
 # New contributor (Thanks!)
 
-* TiDB: [Boikc](https://www.github.com/qazbnm456)
+* TiDB: [Boik](https://www.github.com/qazbnm456)
