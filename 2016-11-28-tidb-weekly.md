@@ -27,7 +27,7 @@ Last week, we landed [44 PRs](https://github.com/pingcap/tidb/pulls?utf8=✓&q=i
 
 + [Fix the behavior in the aggregate operator:](https://github.com/pingcap/tidb/pull/2057) for the `select a, c from t groupby t.b` statement, `a` and `c` should use the first row in the group.
 
-+[ Add sequence number in binlog](https://github.com/pingcap/tidb/pull/2060) to preserve the original mutation order.
++ [ Add sequence number in binlog](https://github.com/pingcap/tidb/pull/2060) to preserve the original mutation order.
 
 + [Reset the current database after dropping the current database.](https://github.com/pingcap/tidb/pull/2089)
 
