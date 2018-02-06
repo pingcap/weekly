@@ -64,8 +64,8 @@ Last week, we landed [22 PRs](https://github.com/search?q=repo%3Apingcap%2Ftikv+
 
 ## Added
 
-* [Implement `GetAllStores` API](https://github.com/pingcap/pd/pull/937)
-* [Implement `GetAllStores` API](https://github.com/pingcap/tikv/pull/2722)
+* [PD: implement `GetAllStores` API](https://github.com/pingcap/pd/pull/937)
+* [TiKV: implement `GetAllStores` API](https://github.com/pingcap/tikv/pull/2722)
 * [Add PD health API](https://github.com/pingcap/pd/pull/941)
 * [Support setting `leader` priority to etcd members](https://github.com/pingcap/pd/pull/942)
 * [Sync the PD leader with the etcd leader](https://github.com/pingcap/pd/pull/945)
