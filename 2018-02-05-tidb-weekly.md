@@ -22,7 +22,7 @@ Last week, we landed [35 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 * [`limit` and `offset` can be parameter markers in the prepared statement](https://github.com/pingcap/tidb/pull/2364)
 * [`IndexOption` can be a list in creating a table](https://github.com/pingcap/tidb/pull/2366)
 * [Fix the bug of some field length missing in creating a table](https://github.com/pingcap/tidb/pull/2382)
-* [Fix a bug of parsing `Datetime` overflow](https://github.com/pingcap/tidb/pull/2401)
+* [Fix the bug of parsing `Datetime` overflow](https://github.com/pingcap/tidb/pull/2401)
 * [Trim leading zeros before parsing integer `literal`](https://github.com/pingcap/tidb/pull/2404)
 * [Fix the float truncate bug](https://github.com/pingcap/tidb/pull/2405)
 
@@ -69,7 +69,7 @@ Last week, we landed [22 PRs](https://github.com/search?q=repo%3Apingcap%2Ftikv+
 * [Add PD health API](https://github.com/pingcap/pd/pull/941)
 * [Support setting `leader` priority to etcd members](https://github.com/pingcap/pd/pull/942)
 * [Sync the PD leader with the etcd leader](https://github.com/pingcap/pd/pull/945)
-* [Add `future` pool](https://github.com/pingcap/tikv/pull/2725)
+* [Add the `future` pool](https://github.com/pingcap/tikv/pull/2725)
 
 ## Fixed
 
@@ -89,4 +89,4 @@ Last week, we landed [22 PRs](https://github.com/search?q=repo%3Apingcap%2Ftikv+
 
 # New contributor (Thanks!)
 
-* TiDB: [Boikc](https://www.github.com/qazbnm456)
+* TiDB: [Boik](https://www.github.com/qazbnm456)
