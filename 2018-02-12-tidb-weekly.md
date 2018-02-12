@@ -103,4 +103,4 @@ Last week, we landed [19 PRs](https://github.com/search?q=repo%3Apingcap%2Ftikv+
 
 # New contributor (Thanks!)
 
-* TiDB: [Cruth kvinc](https://github.com/oiooj)
+* TiDB: [caojiafeng](https://github.com/lerencao)
