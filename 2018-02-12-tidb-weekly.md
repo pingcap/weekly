@@ -81,7 +81,7 @@ Last week, we landed [19 PRs](https://github.com/search?q=repo%3Apingcap%2Ftikv+
 
 * [Add the read pool](https://github.com/pingcap/tikv/pull/2699)
 * [Introduce the label property and the label scheduler](https://github.com/pingcap/pd/pull/946)
-* [Support the config label scheduler and label property](https://github.com/pingcap/pd/pull/948)
+* [Support configuring the label scheduler and the label property](https://github.com/pingcap/pd/pull/948)
 
 ## Fixed
 
