@@ -65,7 +65,7 @@ Last week, We landed [27 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 ## Fixed
 
-* Decrease the [load limit](%20https://github.com/pingcap/pd/pull/688) to 10000. 
+* Decrease the [load limit](https://github.com/pingcap/pd/pull/688) to 10000. 
 * Fix a bug when using [offset in expressions](https://github.com/pingcap/tikv/pull/2064) for coprocessor. 
 * Fix [`trace_size`](https://github.com/pingcap/tikv/pull/2069) computing. 
 * Let Travis decide which [compiler](https://github.com/pingcap/tikv/pull/2074) to use automatically.
