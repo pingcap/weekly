@@ -59,7 +59,7 @@ The following guides are updated:
 
 * [TiDB Docker Deployment](https://github.com/pingcap/docs/blob/master/op-guide/docker-deployment.md)
 
-* [Compatibility with MySQL](https://github.com/pingcap/docs/blob/master/op-guide/mysql-compatibility.md)
+* Compatibility with MySQL
 
 # Weekly update in TiKV
 
