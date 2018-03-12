@@ -5,7 +5,7 @@ summary: Last week, we landed 38 PRs in the TiDB repositories, 8 PRs in the TiSp
 tags: ['TiDB', 'TiKV', 'PD', 'TiSpark']
 ---
 
-# TiDB 2.0 RC1 Release
+# TiDB 2.0 RC1 release
 
 [TiDB 2.0 RC1 is released](https://www.pingcap.com/blog/2018-03-09-2rc1/). This release has great improvement in MySQL compatibility, SQL optimization and stability.
 
