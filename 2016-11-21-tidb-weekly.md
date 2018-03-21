@@ -37,7 +37,7 @@ Last week, we landed [30 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 Add the following new guides:
 
-* [Compatibility with MySQL](https://github.com/pingcap/docs/blob/master/op-guide/mysql-compatibility.md).
+* [Compatibility with MySQL](https://github.com/pingcap/docs/blob/df199ea8d08089c4459ec6e69df7332a80b612d7/sql/mysql-compatibility.md).
 
 * [Reading data from history versions](https://github.com/pingcap/docs/blob/master/op-guide/history-read.md).
 
