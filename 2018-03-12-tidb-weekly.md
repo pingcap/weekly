@@ -15,7 +15,7 @@ Last week, we landed [38 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 ## Added
 
-- [Supprt checking the consistency of an index](https://github.com/pingcap/tidb/pull/5932)
+- [Support checking the consistency of an index](https://github.com/pingcap/tidb/pull/5932)
 - [Support decoding a column value by HTTP API](https://github.com/pingcap/tidb/pull/5927)
 - [Add validation for configuration](https://github.com/pingcap/tidb/pull/5864)
 - [Add HTTP API for settings](https://github.com/pingcap/tidb/pull/5860)
