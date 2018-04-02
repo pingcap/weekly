@@ -1,5 +1,5 @@
 ---
-title: Weekly update (March 26 ~ April 1, 2018)
+title: Weekly update (March 26 ~ April 01, 2018)
 date: 2018-04-02
 summary: Last week, we landed 49 PRs in the TiDB repositories, 6 PRs in the TiSpark repositories, and 21 PRs in the TiKV and PD repositories.
 tags: ['TiDB', 'TiKV', 'PD', 'TiSpark']
@@ -38,8 +38,8 @@ Last week, we landed [6 PRs](https://github.com/pingcap/tispark/pulls?utf8=%E2%9
 
 ## Fixed
 
-* [Fix excessive dag columns](https://github.com/pingcap/tispark/pull/297/files)
-* [Fix `estimatedRowCount` when the pushdown predicate is not present](https://github.com/pingcap/tispark/pull/294)
+- [Fix excessive dag columns](https://github.com/pingcap/tispark/pull/297/files)
+- [Fix `estimatedRowCount` when the pushdown predicate is not present](https://github.com/pingcap/tispark/pull/294)
 
 # Weekly update in TiKV and PD
 
@@ -47,26 +47,26 @@ Last week, we landed [21 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 ## Added
 
-* [Add import-mode arguments to tune configurations for importing data](https://github.com/pingcap/tikv/pull/2875)
-* [Add `RegionOption` for picking Region randomly](https://github.com/pingcap/pd/pull/1005)
-* [Add the diagnose API](https://github.com/pingcap/pd/pull/1004)
-* [Set `eval_warnings` in `SelectResponse.warnings` or `StreamResponse.warnings`](https://github.com/pingcap/tikv/pull/2858)
-* [Clean up obsoleted SST files periodically](https://github.com/pingcap/tikv/pull/2839)
-* [Initiate the half split Region](https://github.com/pingcap/tikv/pull/2790)
-* [Support `admin` splitting Region](https://github.com/pingcap/pd/pull/947)
+- [Add import-mode arguments to tune configurations for importing data](https://github.com/pingcap/tikv/pull/2875)
+- [Add `RegionOption` for picking Region randomly](https://github.com/pingcap/pd/pull/1005)
+- [Add the diagnose API](https://github.com/pingcap/pd/pull/1004)
+- [Set `eval_warnings` in `SelectResponse.warnings` or `StreamResponse.warnings`](https://github.com/pingcap/tikv/pull/2858)
+- [Clean up obsoleted SST files periodically](https://github.com/pingcap/tikv/pull/2839)
+- [Initiate the half split Region](https://github.com/pingcap/tikv/pull/2790)
+- [Support `admin` splitting Region](https://github.com/pingcap/pd/pull/947)
 
 ## Fixed
 
-* [Remove redundant configuration](https://github.com/pingcap/tikv/pull/2884)
-* [Fix the bug of `ThreadSafeCache Get` method lock](https://github.com/pingcap/pd/pull/1008)
-* [Fix metrics of the replica checker](https://github.com/pingcap/pd/pull/1007)
-* [Fix a bug of `config show all`](https://github.com/pingcap/pd/pull/1006)
+- [Remove redundant configuration](https://github.com/pingcap/tikv/pull/2884)
+- [Fix the bug of `ThreadSafeCache Get` method lock](https://github.com/pingcap/pd/pull/1008)
+- [Fix metrics of the replica checker](https://github.com/pingcap/pd/pull/1007)
+- [Fix a bug of `config show all`](https://github.com/pingcap/pd/pull/1006)
 
 ## Improved
 
-* [Relax the abnormal leader missing check](https://github.com/pingcap/tikv/pull/2867)
-* [Make sending snapshots asynchronous in a `CpuPool`](https://github.com/pingcap/tikv/pull/2850)
-* [Avoid passing `CpuPool` into `OnResponse`](https://github.com/pingcap/tikv/pull/2841)
+- [Relax the abnormal leader missing check](https://github.com/pingcap/tikv/pull/2867)
+- [Make sending snapshots asynchronous in a `CpuPool`](https://github.com/pingcap/tikv/pull/2850)
+- [Avoid passing `CpuPool` into `OnResponse`](https://github.com/pingcap/tikv/pull/2841)
 
 # New contributors (Thanks!)
 
