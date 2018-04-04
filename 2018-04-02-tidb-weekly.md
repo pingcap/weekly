@@ -13,7 +13,7 @@ Last week, we landed [49 PRs](https://github.com/search?p=5&q=repo%3Apingcap%2Ft
 
 - [Support `show grants for current_user();`](https://github.com/pingcap/tidb/pull/5697)
 - [Add manual GC back for some KV API users](https://github.com/pingcap/tidb/pull/6123)
-- [Support using a decimal in `INTERNAL`](https://github.com/pingcap/tidb/pull/6143)
+- [Support using decimal in `INTERNAL`](https://github.com/pingcap/tidb/pull/6143)
 
 ## Fixed
 
