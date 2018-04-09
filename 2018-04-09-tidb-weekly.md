@@ -14,7 +14,7 @@ Last week, we landed [28 PRs](https://github.com/search?p=1&q=repo%3Apingcap%2Ft
 - [Support `AdminCleanupIndex` to clean up the dangling index](https://github.com/pingcap/tidb/pull/6102)
 - [Support `AlterTableComment`](https://github.com/pingcap/tidb/pull/6127)
 - [Add `RawDeleteRange` API](https://github.com/pingcap/tidb/pull/6157)
-- [Make `session transaction isolation level` take effect only once](https://github.com/pingcap/tidb/pull/6175)-
+- [Make `session transaction isolation level` take effect only once](https://github.com/pingcap/tidb/pull/6175)
 
 ## Fixed
 
@@ -22,7 +22,7 @@ Last week, we landed [28 PRs](https://github.com/search?p=1&q=repo%3Apingcap%2Ft
 - [Fix row count estimation for the column with null values](https://github.com/pingcap/tidb/pull/6203)
 - [Fix the result of `cast (0x10 as binary(2))`](https://github.com/pingcap/tidb/pull/6211)
 - [Fix zero value issue for binary type](https://github.com/pingcap/tidb/pull/6213)
-- [Merge `BatchGet` results to fix `InsertIgnore` in a transaction block](https://github.com/pingcap/tidb/pull/6215)-
+- [Merge `BatchGet` results to fix `InsertIgnore` in a transaction block](https://github.com/pingcap/tidb/pull/6215)
 
 ## Improved
 
