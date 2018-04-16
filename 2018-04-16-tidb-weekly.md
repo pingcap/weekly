@@ -1,6 +1,6 @@
 ---
 title: Weekly update (April 09 ~ April 15, 2018)
-date: 2018-04-15
+date: 2018-04-16
 summary: Last week, we landed 32 PRs in the TiDB repositories, 3 PRs in the TiSpark repositories, and 25 PRs in the TiKV and PD repositories.
 tags: ['TiDB', 'TiKV', 'PD', 'TiSpark']
 ---
