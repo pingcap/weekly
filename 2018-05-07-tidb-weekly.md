@@ -12,7 +12,7 @@ Last week, we landed [24 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 ## Added
 
 - [Add `DB_NAME` and `TABLE_NAME` in the result of `ADMIN SHOW DDL JOBS`](https://github.com/pingcap/tidb/pull/6276)
-- [Add the HTTP API to the `ScatterTable` Regions](https://github.com/pingcap/tidb/pull/6378)
+- [Add an HTTP API to scatter Regions of a table](https://github.com/pingcap/tidb/pull/6378)
 - [Add the `tidb_retry_limit` session variable to control the transaction retry limit](https://github.com/pingcap/tidb/pull/6369)
 - [Add the `auto_analyze_ratio` session variable to control the automatic analysis ratio](https://github.com/pingcap/tidb/pull/6455)
 - [Support the `ALTER TABLE FORCE` syntax](https://github.com/pingcap/tidb/pull/6476)
