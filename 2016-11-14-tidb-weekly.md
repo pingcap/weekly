@@ -41,7 +41,7 @@ Last week, we landed [25 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 	* Monitoring a TiDB cluster
 
-	* [Compatibility with MySQL](https://github.com/pingcap/docs/blob/master/op-guide/mysql-compatibility.md)
+	* [Compatibility with MySQL](https://github.com/pingcap/docs/blob/master/sql/mysql-compatibility.md)
 
 
 # Weekly update in TiKV
