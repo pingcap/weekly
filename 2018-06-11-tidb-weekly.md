@@ -21,7 +21,7 @@ Last week, we landed [50 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 - [Make `TIDB_SMJ` take effect when no index can be used](https://github.com/pingcap/tidb/pull/6454)
 - [Fix the `SelectLock` option for the `UNION` statement](https://github.com/pingcap/tidb/pull/6579)
 - [Fix a bug of the `DROP USER` statement](https://github.com/pingcap/tidb/pull/6624)
-- [Do not wrap a cast to the `JSON` function when the input is already `JSON`](https://github.com/pingcap/tidb/pull/6678)
+- [Fix a bug of `WrapWithCastAsJSON`](https://github.com/pingcap/tidb/pull/6678)
 - [Detect the duplication of table alias for the `JOIN` statement](https://github.com/pingcap/tidb/pull/6716)
 - [Fix some bugs of the `DECIMAL` values](https://github.com/pingcap/tidb/pull/6721)
 - [Do not allow the `YEAR` type to have the `UNSIGNED` flag](https://github.com/pingcap/tidb/pull/6745)
