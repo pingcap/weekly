@@ -45,7 +45,7 @@ Last week, we landed [50 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 # Weekly update in TiSpark
 
-Last week, we landed [2 PRs]https://github.com/pingcap/tispark/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2018-06-04..2018-06-10) in the TiSpark repositories.
+Last week, we landed [2 PRs](https://github.com/pingcap/tispark/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2018-06-04..2018-06-10) in the TiSpark repositories.
 
 ## Fixed
 
