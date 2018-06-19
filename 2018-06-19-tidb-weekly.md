@@ -49,6 +49,14 @@ Last week, we landed [28 PRs](https://github.com/search?p=1&q=repo:pingcap/tikv+
 - [Support initialization empty Region in `tikv-ctl`](https://github.com/pingcap/tikv/pull/3178)
 - [Adjust the pending peer filter](https://github.com/pingcap/pd/pull/1110)
 
-# New contributor (Thanks!)
+# New contributors (Thanks!)
 
-TiKV: [kbacha](https://github.com/kbacha)
+TiDB:
+
+- [chenyang8094](https://github.com/chenyang8094)
+- [Angryrou](https://github.com/angryrou)
+
+TiKV:
+
+- [kbacha](https://github.com/kbacha)
+- [maninalift](https://github.com/maninalift)
