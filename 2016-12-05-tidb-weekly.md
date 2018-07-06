@@ -55,7 +55,6 @@ Last week, we landed [48 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 The following guides are updated:
 
-* [TiDB Binary Deployment](https://github.com/pingcap/docs/blob/master/op-guide/binary-deployment.md)
 
 * [TiDB Docker Deployment](https://github.com/pingcap/docs/blob/master/op-guide/docker-deployment.md)
 
