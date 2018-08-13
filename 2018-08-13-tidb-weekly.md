@@ -27,7 +27,7 @@ Last week, we landed [46 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 - [Perform the batch check for the constrains when adding a unique index](https://github.com/pingcap/tidb/pull/7132)
 - [Remove `Exists` in `plan` and `executor`](https://github.com/pingcap/tidb/pull/7207)
-- [Disable the Read committed isolation level](https://github.com/pingcap/tidb/pull/7280)
+- [Disable the Read Committed isolation level](https://github.com/pingcap/tidb/pull/7280)
 - [Refactor `joinResultGenerator` to handle the unmatched outer records](https://github.com/pingcap/tidb/pull/7288)
 - [Adjust the way of checking all the schema versions](https://github.com/pingcap/tidb/pull/7319)
 - [Update the import path from `coreos/gofail` to `etcd-io/gofail` to fix CI](https://github.com/pingcap/tidb/pull/7329)
@@ -45,7 +45,7 @@ Last week, we landed [27 PRs](https://github.com/search?p=1&q=repo%3Atikv%2Ftikv
     - [`PI`](https://github.com/tikv/tikv/pull/3382)
     - [`interval`](https://github.com/tikv/tikv/pull/3330)
 
-- [Support splitting regions by the number of keys](https://github.com/tikv/tikv/pull/3317)
+- [Support splitting Regions by the number of keys](https://github.com/tikv/tikv/pull/3317)
 - [Make PD support allocating timestamp after recovering from incorrect system time](https://github.com/pingcap/pd/pull/1173)
 
 ## Fixed
