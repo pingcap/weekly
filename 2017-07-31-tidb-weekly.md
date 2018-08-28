@@ -49,7 +49,7 @@ Last week, we landed [50 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 ## New Contributor (Thanks!)
 * [Jiaxing Liang](https://github.com/liangjiaxing)
 * [Hu Ming](https://github.com/ming-relax)
-* [Wei Fu](https://github.com/0x04C2)
+* [Wei Fu](https://github.com/fuweid)
 * [Liao Qiang](https://github.com/CodeRushing)
 
 # Weekly update in TiKV
