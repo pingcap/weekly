@@ -12,7 +12,7 @@ Last week, we landed [35 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 ## Added
 
 * [Add a design document for TiDB cluster's system timezone](https://github.com/pingcap/tidb/pull/7656)
-* [Support resigning theDDL owner and use the `ddl`/`owner`/`resign` HTTP method](https://github.com/pingcap/tidb/pull/7649)
+* [Support resigning the DDL owner and use the `ddl`/`owner`/`resign` HTTP method](https://github.com/pingcap/tidb/pull/7649)
 * [Write system timezone into the `MYSQL.TIDB` table in the bootstrap stage](https://github.com/pingcap/tidb/pull/7638)
 * [Add two built-in functions `decode` and `encode`](https://github.com/pingcap/tidb/pull/7622)
 * [Add a proposal document for a `Volcano/Cascades` model based SQL planner](https://github.com/pingcap/tidb/pull/7543)
