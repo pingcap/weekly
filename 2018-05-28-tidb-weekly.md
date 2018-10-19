@@ -78,5 +78,5 @@ Last week, we landed [20 PRs](https://github.com/search?p=1&q=repo:pingcap/tikv+
 
 PD: 
 
-- [panpan zhang](https://github.com/panpan-zhang)
-- [Kung Fu Panda](https://github.com/shilicqupt)
+- [goerzh](https://github.com/goerzh)
+- [shilicqupt](https://github.com/shilicqupt)
