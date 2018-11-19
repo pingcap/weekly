@@ -30,7 +30,7 @@ Last week, we landed [54 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 - [Escape backquotes in identifiers in `SHOW CREATE TABLE` properly](https://github.com/pingcap/tidb/pull/8302)
 - [Convert `Zero` input correctly for column type `year`](https://github.com/pingcap/tidb/pull/8292)
 - [Eliminate extra columns introduced by `OrderBy` upon `Union`](https://github.com/pingcap/tidb/pull/8290)
-- [Fix the error caused by different lengths between embedded and outer `OrderByItems`s](https://github.com/pingcap/tidb/pull/8273)
+- [Fix the error caused by different lengths between embedded and outer `OrderByItems`](https://github.com/pingcap/tidb/pull/8273)
 - [Consider null for comparing operators in expression rewriting](https://github.com/pingcap/tidb/pull/8269)
 - [Impose specified `OrderBy` on the union result of `TableDual`](https://github.com/pingcap/tidb/pull/8251)
 - [Use `Column.UniqueID` in `conditionChecker` of `ranger`](https://github.com/pingcap/tidb/pull/8236)
