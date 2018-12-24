@@ -78,7 +78,7 @@ Last week, we landed [22 PRs](https://github.com/search?utf8=%E2%9C%93&q=repo%3A
 
 tidb:
 
-- [lonnng](https://github.com/lonnng)
+- [lonnng](https://github.com/lonng)
 - [ziyi-yan](https://github.com/ziyi-yan)
 
 tikv:
