@@ -76,6 +76,6 @@ tidb-operator: [kirinse](https://github.com/kirinse)
 
 docs-cn: 
 
-- [bianxindong](https://github.com/bianxindong)
+- bianxindong
 - [ppiao](https://github.com/ppiao)
  
