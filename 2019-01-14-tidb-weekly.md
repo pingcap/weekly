@@ -91,7 +91,7 @@ tikv:
 - [DCjanus](https://github.com/DCjanus)
 - [aylei](https://github.com/aylei)
 - [gaodayue](https://github.com/gaodayue)
-- [manifoldQAQ](https://github.com/manifoldQAQ)
+- [manifoldQAQ](https://github.com/yeshengm)
 
 parser:
 
