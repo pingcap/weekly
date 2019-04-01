@@ -45,9 +45,12 @@ Last week, we landed [62 PRs](https://github.com/pingcap/tidb/pulls?page=1&q=is%
 
 Last week, we landed [10 PRs](https://github.com/pingcap/tispark/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-03-25..2019-03-31+) in the TiSpark repository.
 
-## Improved
+## Added
 
 - [Support `ShowColumnsCommand`](https://github.com/pingcap/tispark/pull/614)
+
+## Improved
+
 - [Clean up the `TiDAGRequest` code](https://github.com/pingcap/tispark/pull/616)
 
 # Weekly update in TiKV and PD
