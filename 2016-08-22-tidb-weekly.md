@@ -38,7 +38,7 @@ Last week, we landed [26 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 ## Benchmark
 
-Use [sysbench](https://github.com/pingcap/tidb-bench/tree/master/sysbench) to benchmark [leader lease read](https://github.com/pingcap/tikv/pull/916) and previous Raft quorum read in 3-node TiKV.
+Use [sysbench](https://github.com/pingcap/tidb-bench/tree/903ec2044b00d10e449433ee794ebffebd5a6fd0/sysbench) to benchmark [leader lease read](https://github.com/pingcap/tikv/pull/916) and previous Raft quorum read in 3-node TiKV.
 
 ### Insert
 
