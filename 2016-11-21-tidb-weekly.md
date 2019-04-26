@@ -39,7 +39,7 @@ Add the following new guides:
 
 * [Compatibility with MySQL](https://github.com/pingcap/docs/blob/df199ea8d08089c4459ec6e69df7332a80b612d7/sql/mysql-compatibility.md).
 
-* [Reading data from history versions](https://github.com/pingcap/docs/blob/master/op-guide/history-read.md).
+* [Reading data from history versions](https://pingcap.com/docs/dev/how-to/get-started/read-historical-data/).
 
 # Weekly update in TiKV
 

@@ -39,7 +39,7 @@ Last week, we landed [27 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 
 ## Benchmark
 
-Use [sysbench](https://github.com/pingcap/tidb-bench/tree/master/sysbench) to benchmark getting snapshot asynchronously and synchronously in 3-node TiKV.
+Use [sysbench](https://github.com/pingcap/tidb-bench/tree/903ec2044b00d10e449433ee794ebffebd5a6fd0/sysbench) to benchmark getting snapshot asynchronously and synchronously in 3-node TiKV.
 
 ```bash
 # Prepare data
