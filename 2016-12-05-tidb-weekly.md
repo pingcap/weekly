@@ -56,7 +56,7 @@ Last week, we landed [48 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 The following guides are updated:
 
 
-* [TiDB Docker Deployment](https://github.com/pingcap/docs/blob/master/op-guide/docker-deployment.md)
+* [TiDB Docker Deployment](https://pingcap.com/docs/dev/how-to/deploy/orchestrated/docker/)
 
 * Compatibility with MySQL
 
