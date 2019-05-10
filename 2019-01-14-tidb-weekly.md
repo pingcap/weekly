@@ -91,7 +91,7 @@ tikv:
 - [DCjanus](https://github.com/DCjanus)
 - [aylei](https://github.com/aylei)
 - [gaodayue](https://github.com/gaodayue)
-- [parsec0re](https://github.com/parsec0re)
+- [yeshengm](https://github.com/yeshengm)
 
 parser:
 
