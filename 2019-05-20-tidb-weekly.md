@@ -12,7 +12,7 @@ Last week, we landed [37 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 ## Added
 
 - [Implement `ALTER DATABASE` to alter the charset/collation](https://github.com/pingcap/tidb/pull/10393)
-- [Support the `incremental` and `repeats` importer comments](https://github.com/pingcap/tidb/pull/10434)
+- [Support the `incremental` and `repeats` importer columns](https://github.com/pingcap/tidb/pull/10434)
 
 ## Improved
 
