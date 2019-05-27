@@ -14,7 +14,7 @@ Last week, we landed [44 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 - [Support the `tidb_txn_mode` session variable](https://github.com/pingcap/tidb/pull/10574)
 - [Support `dump`/`load` correlation of statistics histograms](https://github.com/pingcap/tidb/pull/10573)
 - [Add a `make ddltest` target to generate `ddltest` binary data](https://github.com/pingcap/tidb/pull/10542)
-- [Add the `tidb_low_resolution_tso` session variable for reading data with low resolution TSO]((https://github.com/pingcap/tidb/pull/10428))
+- [Add the `tidb_low_resolution_tso` session variable for reading data with low resolution TSO](https://github.com/pingcap/tidb/pull/10428)
 - [Support `View` related privileges in `mysql.tables_priv`](https://github.com/pingcap/tidb/pull/9894)
 - [Support `LOAD DATA...IGNORE/REPLACE` in the syntax](https://github.com/pingcap/tidb/pull/10336)
 
