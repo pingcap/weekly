@@ -1,5 +1,5 @@
 ---
-title: Weekly update (May 27 ~ Jun 02, 2019)
+title: Weekly update (May 27 ~ June 02, 2019)
 date: 2019-06-03
 summary: Last week, we landed 37 PRs in the TiDB repository, 4 PRs in the TiSpark repository, and 38 PRs in the TiKV and PD repositories.
 tags: ['TiDB', 'TiSpark', 'TiKV', 'PD']
