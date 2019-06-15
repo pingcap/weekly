@@ -45,7 +45,7 @@ Last week, we landed [44 PRs](https://github.com/pingcap/tidb/pulls?utf8=✓&q=i
 
 Add the following new guides:
 
-* [TiDB Cluster Troubleshooting Guide](https://github.com/pingcap/docs/blob/master/trouble-shooting.md)
+* [TiDB Cluster Troubleshooting Guide](https://pingcap.com/docs/dev/how-to/troubleshoot/cluster-setup/#tidb-cluster-troubleshooting-guide)
 * [TiKV Tuning Guide](https://pingcap.com/docs/dev/reference/performance/tune-tikv/)
 
 # Weekly update in TiKV

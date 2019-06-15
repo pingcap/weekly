@@ -7,7 +7,7 @@ tags: ['TiDB', 'TiKV', 'PD', 'TiSpark']
 
 # TiDB 2.0 RC1 release
 
-[TiDB 2.0 RC1 is released](https://www.pingcap.com/blog/2018-03-09-2rc1/). This release has great improvement in MySQL compatibility, SQL optimization and stability.
+[TiDB 2.0 RC1 is released](https://pingcap.com/docs/dev/releases/2rc1/). This release has great improvement in MySQL compatibility, SQL optimization and stability.
 
 # Weekly update in TiDB
 
