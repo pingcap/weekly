@@ -72,7 +72,7 @@ Last week, we landed [27 PRs](https://github.com/search?p=1&q=repo%3Atikv%2Ftikv
 
 docs-cn:
 
-- [Lunatictwo](https://github.com/Lunatictwo)
+- Lunatictwo
 
 TiKV:
 
