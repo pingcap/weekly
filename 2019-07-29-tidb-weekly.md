@@ -95,6 +95,8 @@ Last week, we landed [27 PRs](https://github.com/search?q=repo%3Atikv%2Ftikv+rep
 tikv:
 
 - [lucab](https://github.com/lucab)
+- [Luffbee](https://github.com/Luffbee)
+- [jiyingtk](https://github.com/jiyingtk)
 
 tidb:
 
