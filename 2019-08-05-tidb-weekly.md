@@ -24,7 +24,7 @@ Last week, we landed [83 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%
 ## Fixed
 
 - [Fix the bug of loading the dropped database schema and the `db-table` API error](https://github.com/pingcap/tidb/pull/11573)
-- [Fix the issue that `baseExecutor'children` might not be closed](https://github.com/pingcap/tidb/pull/11570)
+- [Fix the issue that `baseExecutor's children` might not be closed](https://github.com/pingcap/tidb/pull/11570)
 - [Fix the data race of `admin check table`](https://github.com/pingcap/tidb/pull/11568)
 - [Invalidate a store's Regions after the store is removed in KV](https://github.com/pingcap/tidb/pull/11567)
 - [Fix a bug that window functions do not check `IGNORE NULLS`](https://github.com/pingcap/tidb/pull/11554)
