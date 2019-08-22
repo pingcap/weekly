@@ -75,7 +75,7 @@ TiKV:
 
 - [haoxiang47](https://github.com/haoxiang47)
 - [koushiro](https://github.com/koushiro)
-- [sch00lb0y](https://github.com/sch00lb0y)
+- sch00lb0y
 
 docs-cn:
 

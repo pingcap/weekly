@@ -100,7 +100,7 @@ tidb:
 - [jarvys](https://github.com/jarvys)
 - [liufuyang](https://github.com/liufuyang)
 - [wjhuang2016](https://github.com/wjhuang2016)
-- [zyycj](https://github.com/zyycj)
+- zyycj
 
 tikv:
 
