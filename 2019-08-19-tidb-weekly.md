@@ -70,7 +70,7 @@ tidb：
 
 tikv：
 
-- [ethan-daocloud](https://github.com/ethan-daocloud)
+- ethan-daocloud
 - [you06](https://github.com/you06)
 - [wujy-cs](https://github.com/wujy-cs)
 
