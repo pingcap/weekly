@@ -9,7 +9,7 @@ tags: ['TiDB', 'TiSpark', 'TiKV', 'PD']
 
 ## News & blog post
 
-Our blog post [Lesson Learned from Queries over 1.3 Trillion Rows of Data Within Milliseconds of Response Time at Zhihu.com](https://pingcap.com/success-stories/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu/) became the first spotlight on [Dzone](https://dzone.com/articles/lesson-learned-from-queries-over-13-trillion-rows-1).
+Our blog post [Lesson Learned from Queries over 1.3 Trillion Rows of Data Within Milliseconds of Response Time at Zhihu.com](https://pingcap.com/success-stories/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu/) became the first spotlight on [DZone](https://dzone.com/articles/lesson-learned-from-queries-over-13-trillion-rows-1).
 
 ## Community
 
