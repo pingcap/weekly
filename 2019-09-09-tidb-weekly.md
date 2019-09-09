@@ -95,7 +95,7 @@ TiKV and PD:
 * [Fix a thread-safe bug and improve code](https://github.com/pingcap/pd/pull/1719)
 * [Fix the precision loss while unflattening `Duration` in `codec`](https://github.com/tikv/tikv/pull/5367)
 
-### Proposal
+### Proposals
 
 TiDB:
 
