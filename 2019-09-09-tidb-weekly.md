@@ -9,7 +9,15 @@ tags: ['TiDB', 'TiSpark', 'TiKV', 'PD']
 
 ## News & blog post
 
-Our blog post [Lesson Learned from Queries over 1.3 Trillion Rows of Data Within Milliseconds of Response Time at Zhihu.com](https://pingcap.com/success-stories/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu/) became the first spotlight on [DZone](https://dzone.com/articles/lesson-learned-from-queries-over-13-trillion-rows-1).
+A community user at Zhihu.com (the Quora of China) shared a detailed TiDB case study:
+
+Zhihu is the Quora of China with 220 million registered users, and it has 30 million questions with more than 130 million answers. With approximately 100 billion rows of data accruing each month and growing, this number will reach 3 trillion in two years. They can foresee great challenges in scaling their backend system while maintaining good user experience. With TiDB, they managed to harness the power of data and ensure good user experience because they get 99th percentile response time over these 1.3 trillion rows of data was about 25 ms, and the 999th percentile response time was about 50 ms.
+
+The case study shows why they chose TiDB, how they are using it, what they learned and best practice, and some thoughts about the future with TiDB.
+
+Full story is here:
+
+[Lesson Learned from Queries over 1.3 Trillion Rows of Data Within Milliseconds of Response Time at Zhihu.com](https://pingcap.com/success-stories/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu/)
 
 ## Community
 
