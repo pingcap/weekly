@@ -50,7 +50,7 @@ TiKV:
 
 TiDB:
 
-Last week, we landed [131 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-09-30..2019-10-13+) in the TiDB repository.
+Last week, we landed [131 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-09-30..2019-10-13+) in the TiDB repository, and [48 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-09-30..2019-10-13+in%3Atitle%3Avectorized+evaluation) on the [Vectorized Expressions](https://github.com/pingcap/tidb/issues/12058) issue.
 
 TiSpark:
 
