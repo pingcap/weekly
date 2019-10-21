@@ -36,6 +36,8 @@ parser:
   * [`String` built-in functions (32/133)](https://github.com/pingcap/tidb/issues/12106)
   * [`Duration` built-in functions (5/45)](https://github.com/pingcap/tidb/issues/12176)
   * Total Progress (153/537)
+  * [67 PRs](https://github.com/pingcap/tidb/pulls?page=1&q=is%3Apr+is%3Amerged+sort%3Aupdated-desc+merged%3A>%3D2019-10-14+label%3Acomponent%2Fexpression&utf8=✓) are landed in the expression component
+
 * [Other issues to solve in TiDB](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 * [Other issues to solve in TiKV](https://github.com/tikv/tikv/labels/S%3A%20HelpWanted)
 
@@ -43,7 +45,7 @@ parser:
 
 ### Progress
 
-Last week, we landed [132 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-10-14..2019-10-21+) in the TiDB repository, [6 PRs](https://github.com/pingcap/tispark/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-10-14..2019-10-20+) in the TiSpark repository, [45 PRs](https://github.com/search?q=repo%3Atikv%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2019-10-14..2019-10-20&type=Issues) in the TiKV and PD repositories, and [67 PRs](https://github.com/pingcap/tidb/pulls?page=1&q=is%3Apr+is%3Amerged+sort%3Aupdated-desc+merged%3A>%3D2019-10-14+label%3Acomponent%2Fexpression&utf8=✓) in the expression component.
+Last week, we landed [132 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-10-14..2019-10-21+) in the TiDB repository, [6 PRs](https://github.com/pingcap/tispark/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-10-14..2019-10-20+) in the TiSpark repository, [45 PRs](https://github.com/search?q=repo%3Atikv%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2019-10-14..2019-10-20&type=Issues) in the TiKV and PD repositories.
 
 ### Critical PRs
 
