@@ -1,7 +1,7 @@
 ---
 title: Weekly update (October 21 ~ October 27, 2019)
 date: 2019-10-28
-summary: Last week, we landed 60 PRs in the TiDB repository, 6 PRs in the TiSpark repository, and 28 PRs in the TiKV and PD repositories.
+summary: Last week, we landed 77 PRs in the TiDB repository, 6 PRs in the TiSpark repository, and 34 PRs in the TiKV and PD repositories.
 tags: ['TiDB', 'TiSpark', 'TiKV', 'PD']
 ---
 
@@ -45,7 +45,7 @@ docs-cn:
 
 ### Progress
 
-Last week, we landed [60 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-10-21..2019-10-27+) in the TiDB repository, [6 PRs](https://github.com/pingcap/tispark/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-10-21..2019-10-27+) in the TiSpark repository, and [28 PRs](https://github.com/search?q=repo%3Atikv%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2019-10-21..2019-10-27&type=Issues) in the TiKV and PD repositories.
+Last week, we landed [77 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-10-21..2019-10-27+) in the TiDB repository, [6 PRs](https://github.com/pingcap/tispark/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+merged%3A2019-10-21..2019-10-27+) in the TiSpark repository, and [34 PRs](https://github.com/search?q=repo%3Atikv%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2019-10-21..2019-10-27&type=Issues) in the TiKV and PD repositories.
 
 ### Critical PRs
 
@@ -56,7 +56,7 @@ TiDB:
 * [Reuse the chunk row for the row insertion on the duplicate update](https://github.com/pingcap/tidb/pull/12847)
 * [Fix the panic caused by the data race in `GetDirtyTable()`](https://github.com/pingcap/tidb/pull/12767)
 * [Support `CREATE VIEW` on the union](https://github.com/pingcap/tidb/pull/12595)
-* [Make requests fail quickly when the dial times out](https://github.com/pingcap/tidb/pull/12819)???
+* [Make requests fail quickly when the dial times out](https://github.com/pingcap/tidb/pull/12819)
 
 TiSpark:
 
