@@ -39,7 +39,7 @@ tikv:
 
 * [iswade](https://github.com/iswade)
 
-operator:
+tidb-operator:
 
 * [silentred](https://github.com/silentred)
 
@@ -53,7 +53,7 @@ operator:
     * [`Real` built-in functions (46/49)](https://github.com/pingcap/tidb/issues/12105)
     * [`String` built-in functions (80/133)](https://github.com/pingcap/tidb/issues/12106)
     * [`Duration` built-in functions (17/45)](https://github.com/pingcap/tidb/issues/12176)
-    * Last week, [54 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+sort%3Aupdated-desc+merged%3A2019-11-04..2019-11-10+label%3Acomponent%2Fexpression+) are landed in the expression component.
+    * Last week, [54 PRs](https://github.com/pingcap/tidb/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+sort%3Aupdated-desc+merged%3A2019-11-04..2019-11-10+label%3Acomponent%2Fexpression+) were landed in the expression component.
 
 * Coprocessor SIG:
     * [Improve the performance of Chunk Encoder](https://github.com/tikv/tikv/issues/5729)
@@ -85,7 +85,7 @@ TiDB:
 * [Add the `tidb_cluster_config` virtual table to retrieve all instance configurations](https://github.com/pingcap/tidb/pull/13063)
 * [Add `binlog_status` for the HTTP API and the `TIDB_SERVERS_INFO` table](https://github.com/pingcap/tidb/pull/13025)
 * [Limit the length of the index name when executing the `CREATE TABLE` statement](https://github.com/pingcap/tidb/pull/13016)
-* [Vectorize the hash calculation during the probing](https://github.com/pingcap/tidb/pull/12669)
+* [Vectorize the hash calculation during probing](https://github.com/pingcap/tidb/pull/12669)
 * [Support the required rows for the arrow decode format](https://github.com/pingcap/tidb/pull/12613)
 
 TiSpark:
@@ -97,7 +97,7 @@ TiKV and PD:
 
 * [Support the lock wait timeout](https://github.com/tikv/tikv/pull/5680)
 * [Refactor `DateTime`](https://github.com/tikv/tikv/pull/5473)
-* [Fix the parse number to `Json`](https://github.com/tikv/tikv/pull/5842)
+* [Fix the issue that the value type is incorrect when parsing a number to JSON](https://github.com/tikv/tikv/pull/5842)
 * [Refactor the storage module](https://github.com/tikv/tikv/pull/5822)
 * [Fix the wrong Region size](https://github.com/pingcap/pd/pull/1886)
 * [Use the store flow byte rate to make schedule decisions](https://github.com/pingcap/pd/pull/1870)
