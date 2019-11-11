@@ -91,7 +91,7 @@ TiDB:
 TiSpark:
 
 * [Fix the Stack Overflow error when reading from the partition table](https://github.com/pingcap/tispark/pull/1179)
-* [Fix `OrderProjectLimitPushdown`](https://github.com/pingcap/tispark/pull/1185)??
+* [Fix `OrderProjectLimitPushdown`](https://github.com/pingcap/tispark/pull/1185)
 
 TiKV and PD:
 
