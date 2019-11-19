@@ -11,7 +11,7 @@ tags: ['TiDB', 'TiSpark', 'TiKV', 'PD']
 
 As TiDB-Wasm allows you to easily write TiDB SQL statements, to test the compatibility, and to understand the difference between TiDB and MySQL right in your browser, this Golang database also opens a door to an entirely new world for both Golang and Wasm.
 
-Last week, we published a post that dives deep into how and why we built an in-browser database. By the end of the article, you’ll know to reproduce it yourself, create your own projects, and get inspired.
+Last week, we published a post that dives deep into how and why we built an in-browser database. By the end of the article, you’ll know how to reproduce it yourself, create your own projects, and get inspired.
 
 The full article is here:
 
