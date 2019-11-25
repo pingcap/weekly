@@ -112,4 +112,5 @@ TiKV and PD:
 [Apache Pulsar Meetup x PingCAP Infra Meetup](https://www.huodongxing.com/event/7520647658000?layout=EN)
 
 Date: November 30th, 2019
+
 Location: PingCAP office in Beijing
