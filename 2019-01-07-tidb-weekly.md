@@ -73,7 +73,7 @@ tidb:
 parser:
 
 - [924060929](https://github.com/924060929)
-- [buzzers](https://github.com/buzzers)
+- buzzers
 - [lnhote](https://github.com/lnhote)
 - [shinytang6](https://github.com/shinytang6)
 
