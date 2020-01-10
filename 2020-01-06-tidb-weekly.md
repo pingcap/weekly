@@ -2,6 +2,7 @@
 title: Weekly update (December 30 ~ January 05, 2020)
 date: 2020-01-06
 summary: Last week, we landed 36 PRs in the TiDB repository, 14 PRs in the TiSpark repository, and 42 PRs in the TiKV and PD repositories.
+aliases: ['/weekly/2020-01-06/']
 tags: ['TiDB', 'TiSpark', 'TiKV', 'PD']
 ---
 
