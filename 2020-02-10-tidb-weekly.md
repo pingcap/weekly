@@ -80,6 +80,6 @@ TiKV and PD:
 
 ## Upcoming TiDB event
 
-Infra Meetup No.124 (online)
+[Infra Meetup No.124 (online)](https://mp.weixin.qq.com/s/5zqPsi-PTIihWhhCbYIxbQ) (in Chinese)
 
 Date: February 15th, 2020
