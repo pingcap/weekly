@@ -35,7 +35,7 @@ Before becoming a Committer, TennyZhuang had been reviewing PRs for the TiKV com
 * Greatly improved the performance of `IN()`: tikv/tikv [#6000](https://github.com/tikv/tikv/pull/6000)
 * Refined TiDB's time format to be 8 bytes as TiKV: tikv/tikv [#6418](https://github.com/tikv/tikv/pull/6418)
 * Participated in implementing the collation for TiKV: tikv/tikv [#6592](https://github.com/tikv/tikv/pull/6592)
-* Accepted the RPN expression to support complex expressions: tikv/tikv [#6313](https://github.com/tikv/tikv/pull/)
+* Accepted the RPN expression to support complex expressions: tikv/tikv [#6313](https://github.com/tikv/tikv/pull/6313)
 * Implemented the metadata framework: tikv/tikv [#5993](https://github.com/tikv/tikv/pull/5993)
 
 Thank him for his contributions to the community!
