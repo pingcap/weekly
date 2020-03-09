@@ -82,3 +82,7 @@ TiKV and PD:
 * [Wake up the Raft leader for more cases](https://github.com/tikv/tikv/pull/6672)
 * [Wake up the Raft leader on the proposal](https://github.com/tikv/tikv/pull/6736)
 * [Introduce the solution-based balance solver](https://github.com/pingcap/pd/pull/2141)
+
+## Upcoming TiDB event
+
+[TiDB Usability Challenge Program](https://pingcap.com/community/tidb-usability-challenge/)
