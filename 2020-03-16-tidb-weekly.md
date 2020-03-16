@@ -29,9 +29,33 @@ The full article is here:
 
 tidb:
 
-* [dasinlsb](https://github.com/dasinlsb)
-* [psinghal20](https://github.com/psinghal20)
-* [peterepsteen](https://github.com/peterepsteen)
+* [yzwqf](https://github.com/yzwqf)
+* [zhang555](https://github.com/zhang555)
+
+tikv:
+
+* [ziyi-yan](https://github.com/ziyi-yan)
+
+pd:
+
+* [niedhui](https://github.com/niedhui)
+* [wangrzneu](https://github.com/wangrzneu)
+
+docs:
+
+* [tsthght](https://github.com/tsthght)
+
+docs-cn:
+
+* [CharLotteiu](https://github.com/CharLotteiu)
+
+dm:
+
+* [chenlx0](https://github.com/chenlx0)
+
+ansible:
+
+* [hawkingrei](https://github.com/hawkingrei)
 
 ## Call for participation
 
