@@ -23,7 +23,7 @@ tidb:
 
 - [AerysNan](https://github.com/AerysNan)
 - [Lanearth](https://github.com/Lanearth)
-- [YourLovely](https://github.com/YourLovely)
+- YourLovely
 - [zouhuan1215](https://github.com/zouhuan1215)
 - [SilvaXiang](https://github.com/SilvaXiang)
 - [catror](https://github.com/catror)
