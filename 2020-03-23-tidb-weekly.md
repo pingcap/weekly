@@ -69,7 +69,7 @@ docs-cn:
 
 ### Progress
 
-Last week, we landed [85 PRs](https://github.com/pingcap/tidb/search?q=is%3Apr+is%3Amerged+merged%3A2020-03-16..2020-03-22&unscoped_q=is%3Apr+is%3Amerged+merged%3A2020-03-16..2020-03-22&type=Issues) in the TiDB repository and [66 PRs](https://github.com/search?q=repo%3Atikv%2Ftikv+repo%3Apingcap%2Fpd+is%3Apr+is%3Amerged+merged%3A2020-03-16..2020-03-22&type=Issues) in the TiKV and PD repositories.
+Last week, we landed [85 PRs](https://github.com/pingcap/tidb/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-03-16..2020-03-22) in the TiDB repository and [46 PRs](https://github.com/tikv/tikv/pulls?q=is%3Apr+is%3Amerged+merged%3A2020-03-16..2020-03-22+) in the TiKV and PD repositories.
 
 #### TiDB
 
