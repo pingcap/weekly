@@ -1,7 +1,7 @@
 ---
 title: TiDB Monthly Update (May 2020)
 date: 2020-06-01
-summary: Here's what TiDB has achieved in April.
+summary: Here's what TiDB has achieved in May.
 tags: ['TiDB', 'TiUP', 'TiDB Dashboard', 'TiSpark', 'TiKV', 'PD']
 ---
 
