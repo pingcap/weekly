@@ -80,7 +80,7 @@ In [TiDB Dashboard: Easier Troubleshooting for Distributed Databases](https://pi
 ### Kubernetes
 
 + [Support noise reduction for auto-scaling](https://github.com/pingcap/tidb-operator/pull/2307)
-+ [Support arbitrary topology-based HA in TiDB Scheduler](https://github.com/pingcap/tidb-operator/pull/2366)???
++ [Support arbitrary topology-based HA in TiDB Scheduler](https://github.com/pingcap/tidb-operator/pull/2366)
 
 ## Notable issues
 
