@@ -19,7 +19,7 @@ NetEase Games, affiliated with NetEase, Inc., is a leading provider of self‐de
 
 The full article is here:
 
-[NetEase Games: Why We Chose a Distributed SQL Database Alongside MySQL to Break down Data Silos](https://pingcap.com/success-stories/why-we-chose-a-distributed-sql-database-alongside-mysql-to-break-down-data-silos/)
+[NetEase Games: Why We Chose a Distributed SQL Database Alongside MySQL to Break down Data Silos](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-alongside-mysql-to-break-down-data-silos/)
 
 ## Community
 

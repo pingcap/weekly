@@ -81,10 +81,10 @@ TiKV and PD:
 
 ## Upcoming TiDB events
 
-* [Infra Meetup No.122 (in Chinese)](https://pingcap.com/meetup/)
+* [Infra Meetup No.122 (in Chinese)](https://github.com/pingcap/meetup/)
 
     Date: December 28th, 2019
 
-* [Infra Meetup No.123 (in Chinese)](https://pingcap.com/meetup/)
+* [Infra Meetup No.123 (in Chinese)](https://github.com/pingcap/meetup/)
 
     Date: December 28th, 2019

@@ -82,6 +82,6 @@ TiKV and PD:
 ## Upcoming TiDB events
 
 * [TiDB Hackathon 2019 (in Chinese)](http://nc9hsk15y2xczuor.mikecrm.com/PiwBPaL)
-* [Infra Meetup No.115: Infra Meetup X Kubernetes & Cloud Native Meetup (in Chinese)](https://pingcap.com/meetup/)
-* [Infra Meetup No.116 Chengdu (in Chinese)](https://pingcap.com/meetup/)
-* [Infra Meetup No.117 Shanghai (in Chinese)](https://pingcap.com/meetup/)
+* [Infra Meetup No.115: Infra Meetup X Kubernetes & Cloud Native Meetup (in Chinese)](https://github.com/pingcap/meetup/)
+* [Infra Meetup No.116 Chengdu (in Chinese)](https://github.com/pingcap/meetup/)
+* [Infra Meetup No.117 Shanghai (in Chinese)](https://github.com/pingcap/meetup/)

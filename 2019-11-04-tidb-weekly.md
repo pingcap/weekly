@@ -92,12 +92,12 @@ TiKV and PD:
 
 ## Upcoming TiDB events
 
-[TiDB Experience Sharing Meeting (Guangzhou)](https://pingcap.com/meetup/) (Chinese page)
+[TiDB Experience Sharing Meeting (Guangzhou)](https://github.com/pingcap/meetup/) (Chinese page)
 
 * Time: November 7th, 2019
 * Location: PingCAP office in Guangzhou, Guangdong Province
 
-[TiDB Experience Sharing Meeting (Shenzhen)](https://pingcap.com/meetup/) (Chinese page)
+[TiDB Experience Sharing Meeting (Shenzhen)](https://github.com/pingcap/meetup/) (Chinese page)
 
 * Time: November 9th, 2019
 * Location: Beike Building, Nanshan District, Guangdong Province

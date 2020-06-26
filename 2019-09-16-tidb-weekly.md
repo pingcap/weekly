@@ -77,5 +77,5 @@ TiKV and PD:
 
 ## Upcoming TiDB events
 
-* [TiDB Hackathon 2019 (in Chinese)](https://pingcap.com/community-cn/hackathon2019/)
+* [TiDB Hackathon 2019 (in Chinese)](https://github.com/pingcap/presentations/tree/master/hackathon-2019/)
 * [Paper Reading 0918 (in Chinese)](https://github.com/pingcap/presentations/blob/master/paper-reading.md)
