@@ -21,7 +21,7 @@ Last week, we published a case study written by Chunhui Liu and Chao Hong (Datab
 
 The full article is here:
 
-[Choosing the Right Database for Your Applications](https://pingcap.com/success-stories/choosing-right-database-for-your-applications/#which-databases-are-we-using-at-shopee)
+[Choosing the Right Database for Your Applications](https://pingcap.com/case-studies/choosing-right-database-for-your-applications/#which-databases-are-we-using-at-shopee)
 
 ## Community
 

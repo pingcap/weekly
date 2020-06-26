@@ -15,7 +15,7 @@ Last week, we published a post written by Can Cui, an infrastructure specialist 
 
 The full article is here:
 
-[Lesson Learned from 40 K QPS and 20+ Billion Rows of Data in a Single Scale-out Cluster](https://pingcap.com/success-stories/lesson-learned-from-40-k-qps-and-20-billion-rows-of-data-in-a-single-scale-out-cluster/)
+[Lesson Learned from 40 K QPS and 20+ Billion Rows of Data in a Single Scale-out Cluster](https://pingcap.com/case-studies/lesson-learned-from-40-k-qps-and-20-billion-rows-of-data-in-a-single-scale-out-cluster/)
 
 ## Community
 
