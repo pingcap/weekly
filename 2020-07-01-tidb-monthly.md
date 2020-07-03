@@ -66,7 +66,6 @@ Brian Anderson has written [Rust's Huge Compilation Units](https://pingcap.com/b
 ### Tools
 
 + [Support the pipelined restore in Backup & Restore (BR)](https://github.com/pingcap/br/pull/266)
-+ [Support the canal protocol in TiCDC](https://github.com/pingcap/ticdc/pull/6490)
 + [Add the local backend in TiDB Lightning](https://github.com/pingcap/tidb-lightning/pull/326)
 
 ### Engine
