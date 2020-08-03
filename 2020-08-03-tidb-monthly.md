@@ -65,7 +65,7 @@ Heng Long and Shuang Chen has written [Cluster Diagnostics: Troubleshoot Cluster
 
 ### Planner
 
-+ [Support `except` and `intersect` set operators](https://github.com/pingcap/tidb/pull/18459)
++ [Support `except` and `intersect` operators](https://github.com/pingcap/tidb/pull/18459)
 + [Re-implement hash partition pruning to support `in` and `or` and some other functions](https://github.com/pingcap/tidb/pull/18574)
 
 ### DDL
