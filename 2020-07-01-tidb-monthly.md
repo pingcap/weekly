@@ -173,7 +173,7 @@ pd:
 + [mgkanani](https://github.com/mgkanani)
 + [sunzhuohang](https://github.com/sunzhuohang)
 
-## This Monthly in TiKV
+## This Month in TiKV
 
 For more detailed and comprehensive information about TiKV, we have TiKV Monthly Update. The following covers June.
 
