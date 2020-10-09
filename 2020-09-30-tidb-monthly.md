@@ -90,7 +90,7 @@ Haodong Ji, the head DBA at Zhuan Zhuan, wrote an article [A Scale-Out Database 
 
 [Support using the joint consensus in Raftstore](https://github.com/tikv/tikv/pull/8401/)
 
-### Transatction
+### Transaction
 
 [Allow async commit by default](https://github.com/tikv/tikv/pull/8630)
 
@@ -149,11 +149,11 @@ Haodong Ji, the head DBA at Zhuan Zhuan, wrote an article [A Scale-Out Database 
 
 + [BR: To fix the issue that TiKV's S3 does not support Virtual Host Style requests](https://github.com/pingcap/br/issues/484)
 + [TiCDC: To support clustered index](https://github.com/pingcap/ticdc/issues/919)
-+ [TiDB Lightning: To fix the issue the Local-backend misses a lot of index KV with partitioned table](https://github.com/pingcap/tidb-lightning/issues/401)
++ [TiDB Lightning: To fix the issue the Local-backend misses a lot of index KVs with partitioned tables](https://github.com/pingcap/tidb-lightning/issues/401)
 
 ### Engine
 
-[RocksDB: To fix the issue that the cache key conflict lead to data corruption](https://github.com/tikv/tikv/issues/8243)
+[RocksDB: To fix the issue that the cache key conflict leads to data corruption](https://github.com/tikv/tikv/issues/8243)
 
 ### Scheduling
 
@@ -173,7 +173,7 @@ Haodong Ji, the head DBA at Zhuan Zhuan, wrote an article [A Scale-Out Database 
 
 ### Kubernetes
 
-[To generate CRD manifest with more validation schema](https://github.com/pingcap/tidb-operator/issues/3213)
+[To generate CRD manifest with more validation schemas](https://github.com/pingcap/tidb-operator/issues/3213)
 
 ### Scheduling
 
@@ -182,11 +182,11 @@ Haodong Ji, the head DBA at Zhuan Zhuan, wrote an article [A Scale-Out Database 
 
 ### TiUP
 
-[To add a lock to avoid multiple tiup-cluster instance running on the same time](https://github.com/pingcap/tiup/issues/809)
+[To add a lock to avoid multiple tiup-cluster instances running on the same time](https://github.com/pingcap/tiup/issues/809)
 
 ## New contributors
 
-We’d like to welcome the following new contributors to TiDB and thank them for their work!
+We'd like to welcome the following new contributors to TiDB and thank them for their work!
 
 tidb:
 
