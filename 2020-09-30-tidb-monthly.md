@@ -201,7 +201,6 @@ tidb:
 * [TszKitLo40](https://github.com/TszKitLo40)
 * [SailerNote](https://github.com/SailerNote)
 * [asiafrank](https://github.com/asiafrank)
-* [ti-srebot](https://github.com/ti-srebot)
 
 tinysql:
 
