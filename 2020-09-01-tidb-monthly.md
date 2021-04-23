@@ -73,8 +73,6 @@ In [PingCAP Successfully Completes SOC 2 Type 1 Examination for TiDB Cloud](http
 
 In [Announcing PD Transfer to TiKV Project](https://pingcap.com/blog/announcing-pd-transfer-to-tikv-project/), we announced that we decided to move the PD library entirely to TiKV org, happening at 11 AM, UTC+8, August 17, 2020.
 
-Munenori Hirakawa, the senior manager at PayPay Product Tech Division wrote an article [Japan's Largest Mobile Payment Company Migrates from Aurora to a Scale-Out Database](https://pingcap.com/case-studies/japan-largest-mobile-payment-company-migrates-from-aurora-to-a-scale-out-database) to share why PayPay migrated from Amazon Aurora to TiDB and the practical experience of migration.
-
 [Create a Scale-Out Hive Cluster with a Distributed, MySQL-Compatible Database](https://pingcap.com/blog/create-scale-out-hive-cluster-with-distributed-mysql-compatible-database/), written by Mengyu Hu, the platform engineer at Zhihu, shared with you how to create a Hive cluster with TiDB as the Metastore database at the backend so that you can use TiDB to horizontally scale Hive Metastore without worrying about database capacity.
 
 In [Why We Chose a Distributed SQL Database to Complement MySQL](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql), Chao Xu, the Senior DBA Engineer at VIPKid, discussed how they used TiDB to do multi-dimensional queries on sharded data and enhance their real-time analytics capability.
